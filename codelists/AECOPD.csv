@@ -1,0 +1,12 @@
+snomedctconceptid,snomedctdescriptionid,term,originalcode,cleansedreadcode,emiscodecategoryid,aecopd
+"1751000119100","2967380018","Acute exacerbation of chronic obstructive airways disease with asthma","^ESCTAC797017","","Unset",1
+"195951007","3012683010","Acute exacerbation of COPD","^ESCTAC478142","","Conditions, operations and procedures",1
+"195951007","3012710012","Acute exacerbation of chronic obstructive pulmonary disease","^ESCTAC478143","","Conditions, operations and procedures",1
+"195951007","301453013","Acute exacerbation of chronic obstructive airways disease","H3122","H312200","Conditions, operations and procedures",1
+"195951007","301453013","Chron obstruct pulmonary dis wth acute exacerbation, unspec","H3y1","H3y1.00","Conditions, operations and procedures",1
+"285381006","424365019","Acute infective exacerbation of chronic obstructive airways disease","ESCTAC8","","Conditions, operations and procedures",1
+"408501008","3082901016","Emergency hospital admission for chronic obstructive pulmonary disease","8H2R","8H2R.00","Referral",1
+"408501008","3082978011","Emergency hospital admission for COPD (chronic obstructive pulmonary disease)","^ESCTEM676325","","Referral",1
+"525691000000103","1173471000000110","Antibiotic therapy for acute pulmonary exacerbation","8BP8","8BP8.00","Conditions, operations and procedures",1
+"847091000000104","2196421000000114","Acute non-infective exacerbation of chronic obstructive pulmonary disease","EMISNQAC878","","Conditions, operations and procedures",1
+"847091000000104","2196431000000111","Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)","^ESCTAC828717","","Conditions, operations and procedures",1

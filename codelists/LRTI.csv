@@ -1,0 +1,124 @@
+snomedctconceptid,snomedctdescriptionid,term,originalcode,cleansedreadcode,emiscodecategoryid,lrti
+1029731000000105,2595621000000111,Parainfluenza type 1 nucleic acid detection,43jx,43jx.00,Immunology,1
+1029741000000101,2597051000000118,Parainfluenza type 2 nucleic acid detection,43jy,43jy.00,Immunology,1
+1029751000000103,2597061000000115,Parainfluenza type 3 nucleic acid detection,43jz,43jz.00,Immunology,1
+1029901000000102,2597071000000110,Parainfluenza type 4 nucleic acid detection,43w9,43w9.00,Immunology,1
+1029911000000100,2595561000000119,Influenza B nucleic acid detection,43wD,43wD.00,Immunology,1
+1031631000000102,2595321000000118,Avian influenza virus nucleic acid detection,43jQ,43jQ.00,Immunology,1
+1033051000000101,2608911000000114,Influenza due to zoonotic influenza virus,H2D,,"Conditions, operations and procedures",1
+1033071000000105,2608951000000113,Influenza due to pandemic influenza virus,H2E,,"Conditions, operations and procedures",1
+1033091000000109,2608991000000117,Influenza due to seasonal influenza virus,H2F,,"Conditions, operations and procedures",1
+1033091000000109,2608991000000117,Influenza with othr resp manifestation due to seasonal virus,H2Fy,,"Conditions, operations and procedures",1
+1033091000000109,2608991000000117,Influenza with other manifestations due to seasonl inf virus,H2Fz,,"Conditions, operations and procedures",1
+10509002,18268014,Acute bronchitis,H060,H060.00,"Conditions, operations and procedures",1
+10509002,18268014,Acute bronchitis NOS,H060z,H060z00,"Conditions, operations and procedures",1
+10509002,18268014,Acute bronchitis or bronchiolitis NOS,H06z,H06z.00,"Conditions, operations and procedures",1
+10509002,885041000006119,Acute bronchitis/bronchiolitis,H06-99,H06..99,"Conditions, operations and procedures",1
+15199004,25801011,Acute bronchiolitis with bronchospasm,H0612,H061200,"Conditions, operations and procedures",1
+1707241000006104,1707241000006115,Swine influenza,EMISNQSW6,,"Conditions, operations and procedures",1
+195647007,2817368013,Acute respiratory infection,H0z,H0z..00,"Conditions, operations and procedures",1
+195647007,300997012,Acute respiratory infections,H0,H0...00,"Conditions, operations and procedures",1
+195647007,300997012,Other specified acute respiratory infections,H0y,H0y..00,"Conditions, operations and procedures",1
+195647007,300998019,ARI - Acute respiratory infections,^ESCTAR478001,,"Conditions, operations and procedures",1
+195712009,2820607014,Acute bronchitis and bronchiolitis,H06,H06..00,"Conditions, operations and procedures",1
+195712009,2820607014,Acute bronchitis and/or bronchiolitis,^ESCT1271706,,"Conditions, operations and procedures",1
+195714005,2475602011,Acute croupous bronchitis,H0604,H060400,"Conditions, operations and procedures",1
+195717003,301103013,Acute purulent bronchitis,H0603,H060300,"Conditions, operations and procedures",1
+195719000,301105018,Acute pneumococcal bronchitis,H0606,H060600,"Conditions, operations and procedures",1
+195720006,301106017,Acute streptococcal bronchitis,H0607,H060700,"Conditions, operations and procedures",1
+195721005,301108016,Acute haemophilus influenzae bronchitis,H0608,H060800,"Conditions, operations and procedures",1
+195722003,2470034017,Acute Moraxella catarrhalis bronchitis,^ESCTAC478042,,"Conditions, operations and procedures",1
+195722003,301109012,Acute Neisseria catarrhalis bronchitis,H0609,H060900,"Conditions, operations and procedures",1
+195725001,301112010,Acute bronchitis due to coxsackievirus,H060B,H060B00,"Conditions, operations and procedures",1
+195725001,301112010,Acute coxsackievirus bronchitis,^ESCTAC478045,,"Conditions, operations and procedures",1
+195725001,301113017,Acute coxsackieviral bronchitis,^ESCTAC478046,,"Conditions, operations and procedures",1
+195725001,3300309019,Acute bronchitis caused by coxsackievirus,^ESCTAC478047,,"Conditions, operations and procedures",1
+195726000,301114011,Acute bronchitis due to parainfluenza virus,H060C,H060C00,"Conditions, operations and procedures",1
+195726000,301114011,Acute parainfluenza virus bronchitis,^ESCTAC478048,,"Conditions, operations and procedures",1
+195727009,301115012,Acute bronchitis due to respiratory syncytial virus,H060D,H060D00,"Conditions, operations and procedures",1
+195727009,301115012,Acute respiratory syncytial virus bronchitis,^ESCTAC478049,,"Conditions, operations and procedures",1
+195728004,301116013,Acute bronchitis due to rhinovirus,H060E,H060E00,"Conditions, operations and procedures",1
+195728004,3290504011,Acute bronchitis caused by rhinovirus,^ESCTAC478051,,"Conditions, operations and procedures",1
+195729007,301117016,Acute bronchitis due to echovirus,H060F,H060F00,"Conditions, operations and procedures",1
+195729007,301117016,Acute echovirus bronchitis,^ESCTAC478052,,"Conditions, operations and procedures",1
+195729007,301118014,Acute echoviral bronchitis,^ESCTAC478053,,"Conditions, operations and procedures",1
+195729007,3035673014,Acute bronchitis due to echovirus,^ESCTAC478054,,"Conditions, operations and procedures",1
+195737004,301126018,Acute exudative bronchiolitis,H0613,H061300,"Conditions, operations and procedures",1
+195739001,301128017,Acute bronchiolitis due to respiratory syncytial virus,H0615,H061500,"Conditions, operations and procedures",1
+195739001,3290582012,Acute bronchiolitis caused by respiratory syncytial virus,^ESCTAC478057,,"Conditions, operations and procedures",1
+195742007,301131016,Acute lower respiratory tract infection,H062,H062.00,"Conditions, operations and procedures",1
+195742007,301131016,Acute lower respiratory tract infection,H06z0-1,H06z011,"Conditions, operations and procedures",1
+195742007,301131016,Acute lower respiratory tract infection,H06z1-2,H06z112,"Conditions, operations and procedures",1
+195742007,301131016,[X]Other acute lower respiratory infections,Hyu1,Hyu1.00,"Conditions, operations and procedures",1
+195878008,301357010,Other specified pneumonia or influenza,H2y,H2y..00,"Conditions, operations and procedures",1
+195878008,301357010,Pneumonia or influenza NOS,H2z,H2z..00,"Conditions, operations and procedures",1
+195902009,301388014,Chest infection with infectious disease EC,H24-1,H24..11,"Conditions, operations and procedures",1
+195923003,301416019,Influenza with laryngitis,H2710,H271000,"Conditions, operations and procedures",1
+195924009,301417011,Influenza with pharyngitis,H2711,H271100,"Conditions, operations and procedures",1
+233598009,350042013,Acute bacterial bronchitis,H060x,H060x00,"Conditions, operations and procedures",1
+233599001,350043015,Acute mycoplasmal bronchitis,^ESCTAC505333,,"Conditions, operations and procedures",1
+233599001,350044014,Acute bronchitis due to mycoplasma pneumoniae,H060A,H060A00,"Conditions, operations and procedures",1
+233601004,350046011,Acute viral bronchitis,H060w,H060w00,"Conditions, operations and procedures",1
+233602006,350047019,Acute bronchiolitis due to other specified organisms,H0616,H061600,"Conditions, operations and procedures",1
+233602006,350047019,Acute viral bronchiolitis,^ESCTAC505337,,"Conditions, operations and procedures",1
+2397631000033105,2397631000033114,Influenza Myl,DRGA127270NEMIS,,Unset,1
+275498002,411488017,Respiratory tract infection,H06z1-1,H06z111,"Conditions, operations and procedures",1
+275498002,411488017,Respiratory infection NOS,H5yy-1,H5yy.11,"Conditions, operations and procedures",1
+275498002,411489013,RTI - Respiratory tract infection,^ESCTRT557383,,"Conditions, operations and procedures",1
+275499005,411490016,Acute wheezy bronchitis,H060-1,H060.11,"Conditions, operations and procedures",1
+309789002,453273018,Encephalitis due to influenza,^ESCTEN599275,,"Conditions, operations and procedures",1
+312371005,456072011,Acute infective bronchitis,Hyu10,Hyu1000,"Conditions, operations and procedures",1
+315642008,460161011,Influenza-like symptoms,16L,16L..00,Symptoms and Findings,1
+32398004,54101019,Chest infection - unspecified bronchitis,H30-1,H30..11,"Conditions, operations and procedures",1
+35301006,58909014,Acute tracheobronchitis,H0605,H060500,"Conditions, operations and procedures",1
+359351000000100,676741000000119,"Influenza A virus, other or untyped strain detected",4JU4,4JU4.00,Microbiology,1
+36426008,60783018,Subacute bronchitis,H060v,H060v00,"Conditions, operations and procedures",1
+4120002,8354017,Bronchiolitis,^ESCTBR256464,,"Conditions, operations and procedures",1
+440927002,3034688012,Influenza A virus subtype H2 present,4JU1,4JU1.00,Microbiology,1
+441043003,2882417014,Influenza A virus subtype H1 present,4JU0,4JU0.00,Microbiology,1
+441049004,2882421019,Influenza A virus subtype H3 present,4JU2,4JU2.00,Microbiology,1
+441343005,2882423016,Influenza A virus subtype H5 present,4JU3,4JU3.00,Microbiology,1
+441344004,2790535011,Human parainfluenza virus present,4JUF,4JUF.00,Microbiology,1
+441345003,2794563017,Influenza B virus present,4JU5,4JU5.00,Microbiology,1
+442696006,1128141000000118,Influenza A (H1N1) swine flu,H2A-1,H2A..11,"Conditions, operations and procedures",1
+442696006,2820794017,Influenza A (H1N1),^ESCTIN726705,,"Conditions, operations and procedures",1
+442696006,2820795016,Influenza due to Influenza A virus subtype H1N1,H2A,H2A..00,"Conditions, operations and procedures",1
+442696006,3291265019,Influenza caused by Influenza A virus subtype H1N1,^ESCTIN726706,,"Conditions, operations and procedures",1
+445102008,2872685013,Bronchiolitis due to Human metapneumovirus,^ESCTBR730282,,"Conditions, operations and procedures",1
+445102008,2988948018,Acute bronchiolitis due to human metapneumovirus,H0617,H061700,"Conditions, operations and procedures",1
+445102008,3291618016,Acute bronchiolitis caused by Human metapneumovirus,^ESCTAC730285,,"Conditions, operations and procedures",1
+445102008,3291849011,Bronchiolitis caused by Human metapneumovirus,^ESCTBR730286,,"Conditions, operations and procedures",1
+50417007,1230862016,LRTI - Lower respiratory tract infection,^ESCTLR331640,,"Conditions, operations and procedures",1
+50417007,83992015,Lower respiratory tract infection,H06z0,H06z000,"Conditions, operations and procedures",1
+50417007,83992015,Lower resp tract infection,H06z1,H06z100,"Conditions, operations and procedures",1
+50417007,83996017,Lower respiratory infection,^ESCTLO331638,,"Conditions, operations and procedures",1
+540151000000108,1204911000000119,Pneumonia or influenza NOS,^ESCT1272123,,Unset,1
+5505005,10187013,Acute bronchiolitis,H061,H061.00,"Conditions, operations and procedures",1
+5505005,10187013,Acute bronchiolitis NOS,H061z,H061z00,"Conditions, operations and procedures",1
+5505005,10187013,[X]Acute bronchiolitis due to other specified organisms,Hyu11,Hyu1100,"Conditions, operations and procedures",1
+55604004,92429016,Avian influenza,H29,H29..00,"Conditions, operations and procedures",1
+55735004,1231522017,RSV - Respiratory syncytial virus infection,^ESCTRS340541,,"Conditions, operations and procedures",1
+55735004,92677014,Respiratory syncytial virus infection,A79A,A79A.00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza,H27,H27..00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza with other respiratory manifestation,H271,H271.00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza with respiratory manifestations NOS,H271z,H271z00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza with other manifestations,H27y,H27y.00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza with other manifestations NOS,H27yz,H27yz00,"Conditions, operations and procedures",1
+6142004,11203012,Influenza NOS,H27z,H27z.00,"Conditions, operations and procedures",1
+6142004,11203012,"[X]Flu+oth respiratory manifestations,'flu virus identified",Hyu04,Hyu0400,"Conditions, operations and procedures",1
+6142004,11203012,"[X]Influenza+other manifestations,influenza virus identified",Hyu05,Hyu0500,"Conditions, operations and procedures",1
+6142004,11203012,"[X]Influenza+other manifestations, virus not identified",Hyu07,Hyu0700,"Conditions, operations and procedures",1
+637921000000108,1405301000000117,Acute respiratory infection NOS,^ESCT1272637,,Unset,1
+637921000000108,885051000006117,Acute resp. infection NOS,H0z-99,H0z..99,"Conditions, operations and procedures",1
+64917006,1232627018,Pneumonia due to parainfluenza virus,^ESCTPN355589,,"Conditions, operations and procedures",1
+709410003,2496051000000114,Hib (Haemophilus influenzae type b) infection,^ESCTHI764970,,Unset,1
+709410003,3039757019,Haemophilus influenzae type b infection,^ESCTHA764969,,"Conditions, operations and procedures",1
+711330007,3078435012,Influenza A virus subtype H1N1 detected,4J3L,4J3L.00,Microbiology,1
+74644004,885261000006111,Influenza + encephalopathy,H27y0-99,H27y099,"Conditions, operations and procedures",1
+843921000033101,843921000033117,*Influenza & Common Cold,DRGC11799NEMIS,,Unset,1
+906821000033102,906821000033118,Haemophilus Influenzae (Lyophilized Bacterial Lysates),DRGC22420NEMIS,,Unset,1
+907511000006105,907511000006114,[RFC] Chest infection,HNG0227,,Reason for care,1
+91428005,151462017,Haemophilus influenzae infection,A3B5,A3B5.00,"Conditions, operations and procedures",1
+91428005,151462017,"[X]Haemophilus influenzae infection, unspecified",Ayu3U,Ayu3U00,"Conditions, operations and procedures",1
+95891005,158839016,Influenza-like illness,H27z-2,H27z.12,"Conditions, operations and procedures",1
+95891005,2920741013,Influenza like illness,^ESCTIN406391,,"Conditions, operations and procedures",1

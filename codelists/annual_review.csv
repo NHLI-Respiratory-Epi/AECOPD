@@ -1,0 +1,42 @@
+snomedctconceptid,snomedctdescriptionid,term,originalcode,cleansedreadcode,emiscodecategoryid,annual_review
+"1771201000006100","1771201000006116","Chronic obstructive pulmonary disease multidisciplinary review","EMISNQCH80","","Health management, screening and monitoring",1
+"1788021000006100","1788021000006116","Chronic obstructive pulmonary disease rescue pack not indicated","EMISNQCH93","","Conditions, operations and procedures",1
+"1856491000006103","1856491000006119","Chronic obstructive pulmonary disease monitoring in primary care","EMISNQCH158","","Administration, documents and attachments",1
+"1856501000006106","1856501000006110","Chronic obstructive pulmonary disease monitoring secondary care","EMISNQCH159","","Administration, documents and attachments",1
+"1856581000006102","1856581000006118","Chronic obstructive pulmonary disease monitoring default","EMISNQCH161","","Administration, documents and attachments",1
+"1856591000006104","1856591000006115","Chronic obstructive pulmonary disease follow-up assessment","EMISNQCH162","","Health management, screening and monitoring",1
+"1882371000006102","1882371000006118","Shared care chronic obstructive pulmonary disease monitoring","EMISNQSH45","","Administration, documents and attachments",1
+"1882421000006109","1882421000006113","1 COPD exacerbation in past year","EMISNQ1C1","","Health management, screening and monitoring",1
+"1882431000006107","1882431000006111","3+ COPD exacerbations in past year","EMISNQ3C1","","Health management, screening and monitoring",1
+"1882441000006102","1882441000006118","2 COPD exacerbations in past year","EMISNQ2C1","","Health management, screening and monitoring",1
+"1882451000006100","1882451000006116","No COPD exacerbations in past year","EMISNQNO109","","Health management, screening and monitoring",1
+"1955181000006109","1955181000006113","Keele ENHANCE trial - COPD review","EMISNQKE156","","Administration, documents and attachments",1
+"2009451000006109","2009451000006113","Chronic obstructive pulmonary disease post discharge review","EMISNQCH958","","Health management, screening and monitoring",1
+"390891009","1484924013","Chronic obstructive pulmonary disease monitoring","66YB","66YB.00","Health management, screening and monitoring",1
+"390941006","1484971019","Chronic obstructive pulmonary disease monitoring due","66YD","66YD.00","Health management, screening and monitoring",1
+"394702007","1488423019","Chronic obstructive pulmonary disease follow-up","66YL","66YL.00","Health management, screening and monitoring",1
+"394702007","1488423019","COPD follow-up","66YL-1","66YL.11","Health management, screening and monitoring",1
+"394703002","1488424013","Chronic obstructive pulmonary disease annual review","66YM","66YM.00","Health management, screening and monitoring",1
+"401184000","1780380013","Chronic obstructive pulmonary disease monitoring by nurse","66YS","66YS.00","Health management, screening and monitoring",1
+"401185004","1780381012","Chronic obstructive pulmonary disease monitoring by doctor","66YT","66YT.00","Health management, screening and monitoring",1
+"413845009","2533538014","Chronic obstructive pulmonary disease accident and emergency attendance since last visit","66Yd","66Yd.00","Health management, screening and monitoring",1
+"414087000","2533539018","Emergency chronic obstructive pulmonary disease admission since last appointment","66Ye","66Ye.00","Health management, screening and monitoring",1
+"713731000000102","1564971000000118","Chronic obstructive pulmonary disease monitoring administration","9Oi","9Oi..00","Administration, documents and attachments",1
+"716241000000106","1568801000000112","Chronic obstructive pulmonary disease monitoring first letter","9Oi0","9Oi0.00","Administration, documents and attachments",1
+"716281000000103","1568831000000118","Chronic obstructive pulmonary disease monitoring verbal invite","9Oi3","9Oi3.00","Administration, documents and attachments",1
+"716358000","3305683010","Telehealth chronic obstructive pulmonary disease monitoring","66YB2","66YB200","Health management, screening and monitoring",1
+"716901000000101","1569451000000115","Chronic obstructive pulmonary disease monitoring telephone invitation","9Oi4","9Oi4.00","Administration, documents and attachments",1
+"717021000000106","1569571000000113","Chronic obstructive pulmonary disease monitoring second letter","9Oi1","9Oi1.00","Administration, documents and attachments",1
+"717521000000104","1570061000000113","Chronic obstructive pulmonary disease monitoring third letter","9Oi2","9Oi2.00","Administration, documents and attachments",1
+"718241000000107","1573111000000115","Issue of chronic obstructive pulmonary disease rescue pack","8BMW","8BMW.00","Conditions, operations and procedures",1
+"723245007","3335171010","Number of chronic obstructive pulmonary disease exacerbations in past year","66Yf","66Yf.00","Health management, screening and monitoring",1
+"760601000000107","1683181000000112","Chronic obstructive pulmonary disease 3 monthly review","66YB0","66YB000","Health management, screening and monitoring",1
+"760621000000103","1683221000000119","Chronic obstructive pulmonary disease 6 monthly review","66YB1","66YB100","Health management, screening and monitoring",1
+"810951000000101","2115731000000110","Chronic obstructive pulmonary disease self-management plan review","661N3","661N300","Health management, screening and monitoring",1
+"857791000000103","2219861000000114","Chronic obstructive pulmonary disease rescue pack declined","8IEZ","8IEZ.00","Conditions, operations and procedures",1
+"897311000000101","2308511000000113","Shared care chronic obstructive pulmonary disease monitoring","66Yz2","66Yz200","Health management, screening and monitoring",1
+"939991000006108","939991000006112","COPD medication review","EMISNQCO1","","Conditions, operations and procedures",1
+"940131000006102","940131000006118","COPD monitoring administration","EMISNQCO2","","Administration, documents and attachments",1
+"940141000006107","940141000006111","COPD monitoring invite 1","EMISNQCO3","","Administration, documents and attachments",1
+"940151000006109","940151000006113","COPD monitoring invite 2","EMISNQCO4","","Administration, documents and attachments",1
+"940161000006106","940161000006110","COPD monitoring invite 3","EMISNQCO5","","Administration, documents and attachments",1
