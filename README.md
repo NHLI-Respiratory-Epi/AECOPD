@@ -1,6 +1,6 @@
 # Detecting acute exacerbation of chronic obstructive pulmonary disease (AECOPD) events in UK primary care electronic healthcare records (EHRs)
 
-## AECOPD algorithm (from [Rothnie et al., 2016](https://doi.org/10.1371/journal.pone.0151357))
+## AECOPD algorithm ([Rothnie et al., 2016](https://doi.org/10.1371/journal.pone.0151357))
 The **Algorithms with PPV > 75%** shown below represent the best AECOPD detection method in UK primary care EHRs.
 
 ![](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0151357.t006)
