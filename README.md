@@ -5,7 +5,7 @@ The **Algorithms with PPV > 75%** shown below represent the best AECOPD detectio
 
 ![](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0151357.t006)
 
-In summary, an AECOPD can be in found in primary care EHRs by **excluding any events on a COPD annual review day** and searching for any of the following events:
+In summary, an AECOPD can be in found in primary care EHRs by **excluding any events on a [COPD annual review](codelists/annual_review.csv) day** and searching for any of the following events:
  - A prescription of [antibiotics and oral corticosteroids](codelists/antibiotics_ocs.csv) for 5–14 days
  - [Respiratory symptoms](codelists/COPD_symptoms.csv) (2+) with a prescription for an [antibiotic or oral corticosteroid](codelists/antibiotics_ocs.csv)
  - An [LRTI code](codelists/LRTI.csv)
