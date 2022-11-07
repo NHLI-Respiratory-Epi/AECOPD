@@ -1,12 +1,22 @@
-snomedctconceptid,snomedctdescriptionid,term,originalcode,cleansedreadcode,emiscodecategoryid,aecopd
-"1751000119100","2967380018","Acute exacerbation of chronic obstructive airways disease with asthma","^ESCTAC797017","","Unset",1
-"195951007","3012683010","Acute exacerbation of COPD","^ESCTAC478142","","Conditions, operations and procedures",1
-"195951007","3012710012","Acute exacerbation of chronic obstructive pulmonary disease","^ESCTAC478143","","Conditions, operations and procedures",1
-"195951007","301453013","Acute exacerbation of chronic obstructive airways disease","H3122","H312200","Conditions, operations and procedures",1
-"195951007","301453013","Chron obstruct pulmonary dis wth acute exacerbation, unspec","H3y1","H3y1.00","Conditions, operations and procedures",1
-"285381006","424365019","Acute infective exacerbation of chronic obstructive airways disease","ESCTAC8","","Conditions, operations and procedures",1
-"408501008","3082901016","Emergency hospital admission for chronic obstructive pulmonary disease","8H2R","8H2R.00","Referral",1
-"408501008","3082978011","Emergency hospital admission for COPD (chronic obstructive pulmonary disease)","^ESCTEM676325","","Referral",1
-"525691000000103","1173471000000110","Antibiotic therapy for acute pulmonary exacerbation","8BP8","8BP8.00","Conditions, operations and procedures",1
-"847091000000104","2196421000000114","Acute non-infective exacerbation of chronic obstructive pulmonary disease","EMISNQAC878","","Conditions, operations and procedures",1
-"847091000000104","2196431000000111","Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)","^ESCTAC828717","","Conditions, operations and procedures",1
+snomedctconceptid,snomedctdescriptionid,active,effectivetime,typeid,snomedctterm,aecopd
+"1751000119100","13931000119111",1,31jul2017,"Fully specified name","Acute exacerbation of chronic obstructive airways disease with asthma (disorder)",1
+"1751000119100","2967380018",1,31jul2017,"Synonym","Acute exacerbation of chronic obstructive airways disease with asthma",1
+"195951007","580117017",1,31jul2017,"Fully specified name","Acute exacerbation of chronic obstructive airways disease (disorder)",1
+"195951007","3012710012",1,31jul2017,"Synonym","Acute exacerbation of chronic obstructive pulmonary disease",1
+"195951007","301453013",1,31jul2017,"Synonym","Acute exacerbation of chronic obstructive airways disease",1
+"195951007","3012683010",1,31jan2015,"Synonym","Acute exacerbation of COPD",1
+"195951007","301454019",0,31jul2008,"Synonym","Acute exacerbation of chronic bronchitis",1
+"285381006","679377016",1,31jul2017,"Fully specified name","Acute infective exacerbation of chronic obstructive airways disease (disorder)",1
+"285381006","424365019",1,31jul2017,"Synonym","Acute infective exacerbation of chronic obstructive airways disease",1
+"408501008","3082922010",1,31jul2017,"Fully specified name","Emergency hospital admission for chronic obstructive pulmonary disease (procedure)",1
+"408501008","2972570013",0,31jul2015,"Fully specified name","Admit chronic obstructive pulmonary disease emergency (procedure)",1
+"408501008","2152332015",0,31jan2014,"Fully specified name","Admit COPD emergency (procedure)",1
+"408501008","3082901016",1,31jul2017,"Synonym","Emergency hospital admission for chronic obstructive pulmonary disease",1
+"408501008","3082978011",1,31jul2015,"Synonym","Emergency hospital admission for COPD (chronic obstructive pulmonary disease)",1
+"408501008","2160051010",0,31jul2015,"Synonym","Admit COPD emergency",1
+"408501008","2972589013",0,31jul2015,"Synonym","Admit chronic obstructive pulmonary disease emergency",1
+"525691000000103","1173461000000115",1,01apr2010,"Fully specified name","Antibiotic therapy for acute pulmonary exacerbation (procedure)",1
+"525691000000103","1173471000000110",1,01apr2010,"Synonym","Antibiotic therapy for acute pulmonary exacerbation",1
+"847091000000104","2196411000000115",1,01oct2012,"Fully specified name","Acute non-infective exacerbation of chronic obstructive pulmonary disease (disorder)",1
+"847091000000104","2196421000000114",1,01oct2012,"Synonym","Acute non-infective exacerbation of chronic obstructive pulmonary disease",1
+"847091000000104","2196431000000111",1,01oct2012,"Synonym","Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)",1
