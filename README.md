@@ -36,7 +36,7 @@ merge 1:1 snomedctdescriptionid using AECOPD.csv, nogenerate keep(match master)
 
 **4. Just keep clinical events of interest.**
 ```stata
-drop if copd_annualreview == . & cough == . & dyspnoea == . & sputum == . & lrti == . & aecopd == .
+drop if copd_annualreview == . & breathlessness == . & cough == . & sputum == . & lrti == . & aecopd == .
 ```
 
 **5. Save temporary file containing clinical events of interest.**
@@ -77,7 +77,7 @@ gsort patid obsdate
 
 **12. Collapse data by patient and date to get all events on the same day.**
 ```stata
-collapse (max) annual_review antibiotic oral_corticosteroid cough dyspnoea sputum lrti aecopd, by(patid obsdate)
+collapse (max) annual_review antibiotic oral_corticosteroid breathlessness cough sputum lrti aecopd, by(patid obsdate)
 ```
 
 **13. Remove events on an annual review day.**
@@ -88,7 +88,7 @@ drop annual_review
 
 **14. Calculate total number of symptoms on a specific day.**
 ```stata
-egen symptoms = rowtotal(cough dyspnoea sputum)
+egen symptoms = rowtotal(breathlessness cough sputum)
 order symptoms, after(sputum)
 ```
 
