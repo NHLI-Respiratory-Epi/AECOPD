@@ -10,7 +10,7 @@ merge 1:1 snomedctdescriptionid using LRTI.csv, nogenerate keep(match master)
 merge 1:1 snomedctdescriptionid using AECOPD.csv, nogenerate keep(match master)
 
 //Step 2. Just keep clinical events of interest
-drop if copd_annualreview == . & cough == . & dyspnoea == . & sputum == . & lrti == . & aecopd == .
+drop if copd_annualreview == . & breathlessness == . & cough == . & sputum == . & lrti == . & aecopd == .
 
 //Step 3. Save temporary file containing clinical events of interest
 tempfile review_symptoms_LRTI_AECOPD
@@ -44,14 +44,14 @@ gsort patid obsdate
 */
 
 //Step 10. Collapse data by patient and date to get all events on the same day
-collapse (max) annual_review antibiotic oral_corticosteroid cough dyspnoea sputum lrti aecopd, by(patid obsdate)
+collapse (max) annual_review antibiotic oral_corticosteroid breathlessness cough sputum lrti aecopd, by(patid obsdate)
 
 //Step 11. Remove events on an annual review day
 drop if annual_review == 1
 drop annual_review
 
 //Step 12. Calculate total number of symptoms on a specific day
-egen symptoms = rowtotal(cough dyspnoea sputum)
+egen symptoms = rowtotal(breathlessness cough sputum)
 order symptoms, after(sputum)
 
 //Step 13. Only keep days where both antibiotics and oral corticosteroids were prescribed, days where a patient had 2 or more symptoms and an antibiotic or oral corticosteroid prescribed, days where a patient received an AECOPD code, or days where a patient received a LRTI code
