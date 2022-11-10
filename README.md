@@ -54,7 +54,7 @@ use DrugIssue, clear
 
 **7. Merge prescription file with DM+D codelists to get prescription events of interest.**
 ```stata
-merge 1:1 dmdcode using `antibiotics_ocs', nogenerate keep(match master)
+merge 1:1 snomedctdescriptionid using `antibiotics_ocs', nogenerate keep(match master)
 ```
 
 **8. Just keep prescription events of interest.**
