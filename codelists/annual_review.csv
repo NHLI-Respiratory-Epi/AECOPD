@@ -1,9 +1,52 @@
 snomedctconceptid,snomedctdescriptionid,active,effectivetime,typeid,snomedctterm,annual_review
+"390891009","1465069017",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease monitoring (regime/therapy)",1
+"390891009","1484924013",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease monitoring",1
+"390941006","1465119011",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease monitoring due (finding)",1
+"390941006","1484971019",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease monitoring due",1
+"394702007","1468642018",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease follow-up (regime/therapy)",1
+"394702007","1488423019",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease follow-up",1
+"394702007","1494601017",1,31jul2003,"Synonym","COAD follow-up",1
 "394703002","1468643011",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease annual review (regime/therapy)",1
 "394703002","1488424013",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease annual review",1
+"401184000","1769106010",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease monitoring by nurse (regime/therapy)",1
+"401184000","1780380013",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease monitoring by nurse",1
+"401185004","1769107018",1,31jan2020,"Fully specified name","Chronic obstructive pulmonary disease monitoring by doctor (regime/therapy)",1
+"401185004","1780381012",1,31jan2020,"Synonym","Chronic obstructive pulmonary disease monitoring by doctor",1
+"413845009","2530101017",1,31jul2017,"Fully specified name","Chronic obstructive pulmonary disease accident and emergency attendance since last visit (regime/therapy)",1
+"413845009","2533538014",1,31jul2017,"Synonym","Chronic obstructive pulmonary disease accident and emergency attendance since last visit",1
+"414087000","2530102012",1,31jul2017,"Fully specified name","Emergency chronic obstructive pulmonary disease admission since last appointment (regime/therapy)",1
+"414087000","2533539018",1,31jul2017,"Synonym","Emergency chronic obstructive pulmonary disease admission since last appointment",1
+"713731000000102","1557781000000117",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring administration (record artifact)",1
+"713731000000102","1564971000000118",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring administration",1
+"716241000000106","1571381000000114",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring first letter (procedure)",1
+"716241000000106","1568801000000112",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring first letter",1
+"716281000000103","1571411000000111",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring verbal invitation (procedure)",1
+"716281000000103","1568831000000118",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring verbal invite",1
+"716358000","3305682017",1,31jul2017,"Fully specified name","Telehealth chronic obstructive pulmonary disease monitoring (regime/therapy)",1
+"716358000","3305683010",1,31jul2017,"Synonym","Telehealth chronic obstructive pulmonary disease monitoring",1
+"716901000000101","1572031000000119",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring telephone invitation (procedure)",1
+"716901000000101","1569451000000115",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring telephone invitation",1
+"717021000000106","1567981000000110",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring second letter (procedure)",1
+"717021000000106","1569571000000113",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring second letter",1
+"717521000000104","1570641000000118",1,01oct2010,"Fully specified name","Chronic obstructive pulmonary disease monitoring third letter (procedure)",1
+"717521000000104","1570061000000113",1,01oct2010,"Synonym","Chronic obstructive pulmonary disease monitoring third letter",1
+"718241000000107","1573101000000117",1,28sep2022,"Fully specified name","Issue of chronic obstructive pulmonary disease rescue pack (procedure)",1
+"718241000000107","1573111000000115",1,28sep2022,"Synonym","Issue of chronic obstructive pulmonary disease rescue pack",1
+"718241000000107","1573141000000119",1,01oct2010,"Synonym","Issue of COPD (chronic obstructive pulmonary disease) rescue pack",1
+"723245007","3335169010",1,31jul2017,"Fully specified name","Number of chronic obstructive pulmonary disease exacerbations in past year (observable entity)",1
+"723245007","3335171010",1,31jul2017,"Synonym","Number of chronic obstructive pulmonary disease exacerbations in past year",1
 "760601000000107","1683171000000110",1,01apr2011,"Fully specified name","Chronic obstructive pulmonary disease 3 monthly review (regime/therapy)",1
 "760601000000107","1683181000000112",1,01apr2011,"Synonym","Chronic obstructive pulmonary disease 3 monthly review",1
 "760601000000107","1709911000000112",1,01apr2011,"Synonym","COPD (chronic obstructive pulmonary disease) 3 monthly review",1
 "760621000000103","1683211000000113",1,01apr2011,"Fully specified name","Chronic obstructive pulmonary disease 6 monthly review (regime/therapy)",1
 "760621000000103","1683221000000119",1,01apr2011,"Synonym","Chronic obstructive pulmonary disease 6 monthly review",1
 "760621000000103","1710191000000113",1,01apr2011,"Synonym","COPD (chronic obstructive pulmonary disease) 6 monthly review",1
+"810951000000101","2115721000000113",1,01apr2012,"Fully specified name","Chronic obstructive pulmonary disease self-management plan review (procedure)",1
+"810951000000101","2115731000000110",1,01apr2012,"Synonym","Chronic obstructive pulmonary disease self-management plan review",1
+"810951000000101","2115741000000118",1,01apr2012,"Synonym","COPD (chronic obstructive pulmonary disease) self-management plan review",1
+"857791000000103","2219851000000111",1,01apr2013,"Fully specified name","Chronic obstructive pulmonary disease rescue pack declined (situation)",1
+"857791000000103","2219861000000114",1,01apr2013,"Synonym","Chronic obstructive pulmonary disease rescue pack declined",1
+"857791000000103","2219871000000119",1,01apr2013,"Synonym","COPD (chronic obstructive pulmonary disease) rescue pack declined",1
+"897311000000101","2308501000000111",1,01apr2014,"Fully specified name","Shared care chronic obstructive pulmonary disease monitoring (regime/therapy)",1
+"897311000000101","2308511000000113",1,01apr2014,"Synonym","Shared care chronic obstructive pulmonary disease monitoring",1
+"897311000000101","2312551000000112",1,01apr2014,"Synonym","Shared care COPD (chronic obstructive pulmonary disease) monitoring",1
