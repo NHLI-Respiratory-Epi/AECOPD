@@ -1,209 +1,177 @@
 snomedctconceptid,snomedctdescriptionid,active,effectivetime,typeid,snomedctterm,lrti
-1029731000000105,2594391000000116,1,01apr2016,Fully specified name,Parainfluenza type 1 nucleic acid detection assay (observable entity),1
-1029731000000105,2595621000000111,1,01apr2016,Synonym,Parainfluenza type 1 nucleic acid detection assay,1
-1029741000000101,2594401000000118,1,01apr2016,Fully specified name,Parainfluenza type 2 nucleic acid detection assay (observable entity),1
-1029741000000101,2597051000000118,1,01apr2016,Synonym,Parainfluenza type 2 nucleic acid detection assay,1
-1029751000000103,2594411000000116,1,01apr2016,Fully specified name,Parainfluenza type 3 nucleic acid detection assay (observable entity),1
-1029751000000103,2597061000000115,1,01apr2016,Synonym,Parainfluenza type 3 nucleic acid detection assay,1
-1029901000000102,2594551000000118,1,01apr2016,Fully specified name,Parainfluenza type 4 nucleic acid detection assay (observable entity),1
-1029901000000102,2597071000000110,1,01apr2016,Synonym,Parainfluenza type 4 nucleic acid detection assay,1
-1029911000000100,2598391000000110,1,01apr2016,Fully specified name,Influenza B nucleic acid detection assay (observable entity),1
-1029911000000100,2595561000000119,1,01apr2016,Synonym,Influenza B nucleic acid detection assay,1
-1031631000000102,2597661000000111,1,01apr2016,Fully specified name,Avian influenza virus nucleic acid detection assay (observable entity),1
-1031631000000102,2595321000000118,1,01apr2016,Synonym,Avian influenza virus nucleic acid detection assay,1
-1033051000000101,2608901000000112,1,01apr2016,Fully specified name,Influenza due to zoonotic influenza virus (disorder),1
-1033051000000101,2608911000000114,1,01apr2016,Synonym,Influenza due to zoonotic influenza virus,1
-1033071000000105,2608941000000110,1,01apr2016,Fully specified name,Influenza due to pandemic influenza virus (disorder),1
-1033071000000105,2608951000000113,1,01apr2016,Synonym,Influenza due to pandemic influenza virus,1
-1033091000000109,2608981000000119,1,01apr2016,Fully specified name,Influenza due to seasonal influenza virus (disorder),1
-1033091000000109,2608991000000117,1,01apr2016,Synonym,Influenza due to seasonal influenza virus,1
-10509002,568769014,1,31jul2017,Fully specified name,Acute bronchitis (disorder),1
-10509002,18268014,1,31jul2017,Synonym,Acute bronchitis,1
-10509002,18269018,0,31jan2002,Synonym,"Acute bronchitis, NOS",1
-15199004,741955017,1,31jul2017,Fully specified name,Acute bronchiolitis with bronchospasm (disorder),1
-15199004,25801011,1,31jul2017,Synonym,Acute bronchiolitis with bronchospasm,1
-195647007,2817369017,1,31jul2017,Fully specified name,Acute respiratory infection (disorder),1
-195647007,579771017,0,31jul2009,Fully specified name,Acute respiratory infections (disorder),1
-195647007,2817368013,1,31jul2017,Synonym,Acute respiratory infection,1
-195647007,300997012,1,31jul2017,Synonym,Acute respiratory infections,1
-195647007,300998019,1,31jan2002,Synonym,ARI - Acute respiratory infections,1
-195712009,2820608016,1,31jul2017,Fully specified name,Acute bronchitis and/or bronchiolitis (disorder),1
-195712009,579845012,0,31jul2009,Fully specified name,Acute bronchitis and bronchiolitis (disorder),1
-195712009,2820607014,1,31jul2017,Synonym,Acute bronchitis and/or bronchiolitis,1
-195712009,301095014,0,31jul2009,Synonym,Acute bronchitis and bronchiolitis,1
-195714005,579847016,1,31jul2017,Fully specified name,Acute fibrinous bronchitis (disorder),1
-195714005,2475601016,1,31jul2017,Synonym,Acute pseudomembranous bronchitis,1
-195714005,2475602011,1,31jul2017,Synonym,Acute croupous bronchitis,1
-195714005,301100011,1,31jul2017,Synonym,Acute fibrinous bronchitis,1
-195717003,579851019,1,31jul2017,Fully specified name,Acute purulent bronchitis (disorder),1
-195717003,301103013,1,31jul2017,Synonym,Acute purulent bronchitis,1
-195719000,579853016,1,31jul2017,Fully specified name,Acute pneumococcal bronchitis (disorder),1
-195719000,301105018,1,31jul2017,Synonym,Acute pneumococcal bronchitis,1
-195720006,579854010,1,31jul2017,Fully specified name,Acute streptococcal bronchitis (disorder),1
-195720006,301106017,1,31jul2017,Synonym,Acute streptococcal bronchitis,1
-195721005,4697256015,1,28feb2022,Fully specified name,Acute bronchitis caused by Haemophilus influenzae (disorder),1
-195721005,579855011,0,28feb2022,Fully specified name,Acute haemophilus influenzae bronchitis (disorder),1
-195721005,4697257012,1,28feb2022,Synonym,Acute bronchitis caused by Haemophilus influenzae,1
-195721005,301108016,0,28feb2022,Synonym,Acute haemophilus influenzae bronchitis,1
-195721005,301107014,0,31jan2009,Synonym,Acute hemophilus influenzae bronchitis,1
-195722003,2461663014,1,31jul2004,Fully specified name,Acute Moraxella catarrhalis bronchitis (disorder),1
-195722003,579856012,0,31jul2004,Fully specified name,Acute Neisseria catarrhalis bronchitis (disorder),1
-195722003,2470034017,1,31jul2004,Synonym,Acute Moraxella catarrhalis bronchitis,1
-195722003,301109012,1,31jan2002,Synonym,Acute Neisseria catarrhalis bronchitis,1
-195725001,579859017,1,31jul2017,Fully specified name,Acute coxsackievirus bronchitis (disorder),1
-195725001,301112010,1,31jul2017,Synonym,Acute coxsackievirus bronchitis,1
-195725001,301113017,1,31jul2017,Synonym,Acute coxsackieviral bronchitis,1
-195725001,3300309019,1,31jul2017,Synonym,Acute bronchitis caused by coxsackievirus,1
-195726000,579861014,1,31jul2017,Fully specified name,Acute parainfluenza virus bronchitis (disorder),1
-195726000,301114011,1,31jul2017,Synonym,Acute parainfluenza virus bronchitis,1
-195727009,579862019,1,31jul2017,Fully specified name,Acute respiratory syncytial virus bronchitis (disorder),1
-195727009,301115012,1,31jul2017,Synonym,Acute respiratory syncytial virus bronchitis,1
-195728004,3290516017,1,31jul2017,Fully specified name,Acute bronchitis caused by rhinovirus (disorder),1
-195728004,579863012,0,31jan2016,Fully specified name,Acute bronchitis due to rhinovirus (disorder),1
-195728004,301116013,1,31jul2017,Synonym,Acute bronchitis due to rhinovirus,1
-195728004,3290504011,1,31jul2017,Synonym,Acute bronchitis caused by rhinovirus,1
-195729007,579864018,1,31jul2017,Fully specified name,Acute echovirus bronchitis (disorder),1
-195729007,301117016,1,31jul2017,Synonym,Acute echovirus bronchitis,1
-195729007,301118014,1,31jul2017,Synonym,Acute echoviral bronchitis,1
-195729007,3035673014,1,31jul2017,Synonym,Acute bronchitis due to echovirus,1
-195737004,579873014,1,31jul2017,Fully specified name,Acute exudative bronchiolitis (disorder),1
-195737004,301126018,1,31jul2017,Synonym,Acute exudative bronchiolitis,1
-195739001,3290491014,1,31jul2017,Fully specified name,Acute bronchiolitis caused by respiratory syncytial virus (disorder),1
-195739001,579875019,0,31jan2016,Fully specified name,Acute bronchiolitis due to respiratory syncytial virus (disorder),1
-195739001,301128017,1,31jul2017,Synonym,Acute bronchiolitis due to respiratory syncytial virus,1
-195739001,3290582012,1,31jul2017,Synonym,Acute bronchiolitis caused by respiratory syncytial virus,1
-195742007,2562212010,1,31jul2017,Fully specified name,Acute lower respiratory tract infection (disorder),1
-195742007,579878017,0,31jan2006,Fully specified name,Acute lower respiratory tract infection,1
-195742007,301131016,1,31jul2017,Synonym,Acute lower respiratory tract infection,1
-195878008,580034011,1,31jul2017,Fully specified name,Pneumonia and influenza (disorder),1
-195878008,301357010,1,31jul2017,Synonym,Pneumonia and influenza,1
-195902009,580061011,1,31jul2017,Fully specified name,Anthrax pneumonia (disorder),1
-195902009,301388014,1,31jul2017,Synonym,Anthrax pneumonia,1
-195902009,301389018,1,31jul2017,Synonym,Pneumonia with anthrax,1
-195923003,580085015,1,31jul2017,Fully specified name,Influenza with laryngitis (disorder),1
-195923003,301416019,1,31jul2017,Synonym,Influenza with laryngitis,1
-195924009,580086019,1,31jul2017,Fully specified name,Influenza with pharyngitis (disorder),1
-195924009,301417011,1,31jul2017,Synonym,Influenza with pharyngitis,1
-233598009,621803011,1,31jul2017,Fully specified name,Acute bacterial bronchitis (disorder),1
-233598009,350042013,1,31jul2017,Synonym,Acute bacterial bronchitis,1
-233599001,621804017,1,31jul2017,Fully specified name,Acute mycoplasmal bronchitis (disorder),1
-233599001,350043015,1,31jul2017,Synonym,Acute mycoplasmal bronchitis,1
-233599001,350044014,1,31jul2017,Synonym,Acute bronchitis due to mycoplasma pneumoniae,1
-233601004,621806015,1,31jul2017,Fully specified name,Acute viral bronchitis (disorder),1
-233601004,350046011,1,31jul2017,Synonym,Acute viral bronchitis,1
-233602006,621807012,1,31jul2017,Fully specified name,Acute viral bronchiolitis (disorder),1
-233602006,350047019,1,31jul2017,Synonym,Acute viral bronchiolitis,1
-275498002,668374017,1,31jul2017,Fully specified name,Respiratory tract infection (disorder),1
-275498002,411488017,1,31jul2017,Synonym,Respiratory tract infection,1
-275498002,411489013,1,31jan2002,Synonym,RTI - Respiratory tract infection,1
-275499005,668375016,1,31jul2017,Fully specified name,Acute wheezy bronchitis (disorder),1
-275499005,411490016,1,31jul2017,Synonym,Acute wheezy bronchitis,1
-309789002,3293273018,1,31jul2017,Fully specified name,Encephalitis caused by influenza (disorder),1
-309789002,706340017,0,31jan2016,Fully specified name,Encephalitis due to influenza (disorder),1
-309789002,3295535019,1,31jul2017,Synonym,Encephalitis caused by influenza,1
-309789002,453273018,1,31jul2017,Synonym,Encephalitis due to influenza,1
-312371005,709040012,1,31jul2017,Fully specified name,Acute infective bronchitis (disorder),1
-312371005,456072011,1,31jul2017,Synonym,Acute infective bronchitis,1
-315642008,712554017,1,31jul2017,Fully specified name,Influenza-like symptoms (finding),1
-315642008,460161011,1,31jul2017,Synonym,Influenza-like symptoms,1
-32398004,763675014,1,31jul2017,Fully specified name,Bronchitis (disorder),1
-32398004,54101019,1,31jul2017,Synonym,Bronchitis,1
-32398004,54102014,0,31jan2002,Synonym,"Bronchitis, NOS",1
-35301006,766926016,1,31jul2017,Fully specified name,Acute tracheobronchitis (disorder),1
-35301006,58909014,1,31jul2017,Synonym,Acute tracheobronchitis,1
-359351000000100,676731000000111,1,01oct2008,Fully specified name,Positive virology findings (finding),1
-359351000000100,676741000000119,1,01oct2008,Synonym,Positive virology findings,1
-36426008,768177015,1,31jul2017,Fully specified name,Subacute bronchitis (disorder),1
-36426008,60783018,1,31jul2017,Synonym,Subacute bronchitis,1
-4120002,777962012,1,31jul2017,Fully specified name,Bronchiolitis (disorder),1
-4120002,8354017,1,31jul2017,Synonym,Bronchiolitis,1
-4120002,8355016,0,31jan2002,Synonym,"Bronchiolitis, NOS",1
-440927002,3034698018,1,31jan2015,Fully specified name,Influenza A virus subtype H2 present (finding),1
-440927002,2880914016,0,31jan2015,Fully specified name,Influenza A virus subtype H2 virus present (finding),1
-440927002,2788738012,0,31jan2011,Fully specified name,Influenza H2 virus present (finding),1
-440927002,3034688012,1,31jan2015,Synonym,Influenza A virus subtype H2 present,1
-440927002,2882419012,0,31jan2015,Synonym,Influenza A virus subtype H2 virus present,1
-440927002,2793765017,0,31jan2011,Synonym,Influenza H2 virus present,1
-441043003,2880912017,1,31jan2011,Fully specified name,Influenza A virus subtype H1 present (finding),1
-441043003,2788247017,0,31jan2011,Fully specified name,Influenza H1 virus present (finding),1
-441043003,2882417014,1,31jan2011,Synonym,Influenza A virus subtype H1 present,1
-441043003,2790536012,0,31jan2011,Synonym,Influenza H1 virus present,1
-441049004,2880916019,1,31jan2011,Fully specified name,Influenza A virus subtype H3 present (finding),1
-441049004,2787945015,0,31jan2011,Fully specified name,Influenza H3 virus present (finding),1
-441049004,2882421019,1,31jan2011,Synonym,Influenza A virus subtype H3 present,1
-441049004,2791843016,0,31jan2011,Synonym,Influenza H3 virus present,1
-441343005,2880919014,1,31jan2011,Fully specified name,Influenza A virus subtype H5 present (finding),1
-441343005,2788254011,0,31jan2011,Fully specified name,Influenza H5 virus present (finding),1
-441343005,2882423016,1,31jan2011,Synonym,Influenza A virus subtype H5 present,1
-441343005,2793730017,0,31jan2011,Synonym,Influenza H5 virus present,1
-441344004,2788246014,1,31jan2020,Fully specified name,Human parainfluenza virus present (finding),1
-441344004,2790535011,1,31jan2020,Synonym,Human parainfluenza virus present,1
-441345003,2788590017,1,31jan2009,Fully specified name,Influenza B virus present (finding),1
-441345003,2794563017,1,31jan2009,Synonym,Influenza B virus present,1
-442696006,3293824017,1,31jan2016,Fully specified name,Influenza caused by Influenza A virus subtype H1N1 (disorder),1
-442696006,2820796015,0,31jan2016,Fully specified name,Influenza due to Influenza A virus subtype H1N1 (disorder),1
-442696006,1128141000000118,1,01jun2019,Synonym,Influenza A (H1N1) swine flu,1
-442696006,3291265019,1,31jan2016,Synonym,Influenza caused by Influenza A virus subtype H1N1,1
-442696006,2820794017,1,31jul2009,Synonym,Influenza A (H1N1),1
-442696006,2820795016,1,31jul2009,Synonym,Influenza due to Influenza A virus subtype H1N1,1
-442696006,3990764019,0,31jul2021,Synonym,Swine influenza,1
-445102008,3295529019,1,31jan2016,Fully specified name,Inflammation of bronchiole caused by Human metapneumovirus (disorder),1
-445102008,2869284015,0,31jan2016,Fully specified name,Inflammation of bronchiole due to Human metapneumovirus (disorder),1
-445102008,3291618016,1,31jan2016,Synonym,Acute bronchiolitis caused by Human metapneumovirus,1
-445102008,3291849011,1,31jan2016,Synonym,Bronchiolitis caused by Human metapneumovirus,1
-445102008,3294114019,1,31jan2016,Synonym,Inflammation of bronchiole caused by Human metapneumovirus,1
-445102008,2988948018,1,31jan2014,Synonym,Acute bronchiolitis due to Human metapneumovirus,1
-445102008,2872684012,1,31jul2010,Synonym,Inflammation of bronchiole due to Human metapneumovirus,1
-445102008,2872685013,1,31jul2010,Synonym,Bronchiolitis due to Human metapneumovirus,1
-50417007,788203016,1,31jul2017,Fully specified name,Lower respiratory tract infection (disorder),1
-50417007,83992015,1,31jul2017,Synonym,Lower respiratory tract infection,1
-50417007,83996017,1,31jul2017,Synonym,Lower respiratory infection,1
-50417007,83997014,1,31jul2017,Synonym,Chest cold,1
-50417007,1230862016,1,31jul2003,Synonym,LRTI - Lower respiratory tract infection,1
-50417007,83993013,0,31jan2002,Synonym,"Lower respiratory tract infection, NOS",1
-50417007,83994019,0,31jan2002,Synonym,"Lower respiratory infection, NOS",1
-50417007,83995018,0,31jan2002,Synonym,"Chest cold, NOS",1
-540151000000108,1204921000000113,1,01apr2010,Fully specified name,Pneumonia or influenza NOS (disorder),1
-540151000000108,1204911000000119,1,01apr2010,Synonym,Pneumonia or influenza NOS,1
-5505005,793349011,1,31jul2017,Fully specified name,Acute bronchiolitis (disorder),1
-5505005,10187013,1,31jul2017,Synonym,Acute bronchiolitis,1
-5505005,10189011,1,31jul2017,Synonym,Capillary pneumonia,1
-5505005,2478755014,1,31jul2017,Synonym,Acute capillary bronchiolitis,1
-5505005,10188015,0,31jan2002,Synonym,"Acute bronchiolitis, NOS",1
-55604004,793993016,1,31jul2008,Fully specified name,Avian influenza (disorder),1
-55604004,2620948011,1,31jul2017,Synonym,Bird flu,1
-55604004,92430014,1,31jul2017,Synonym,Fowl plague,1
-55604004,92429016,1,31jul2008,Synonym,Avian influenza,1
-55604004,2620947018,1,31jul2006,Synonym,Avian flu,1
-55735004,794150013,1,31jul2017,Fully specified name,Respiratory syncytial virus infection (disorder),1
-55735004,92677014,1,31jul2017,Synonym,Respiratory syncytial virus infection,1
-55735004,1231522017,1,31jul2003,Synonym,RSV - Respiratory syncytial virus infection,1
-55735004,92678016,0,31jan2002,Synonym,"Respiratory syncytial virus infection, NOS",1
-6142004,800481016,1,31jul2017,Fully specified name,Influenza (disorder),1
-6142004,11203012,1,31jul2017,Synonym,Influenza,1
-6142004,11205017,1,31jul2017,Synonym,Flu,1
-6142004,11206016,1,31jul2017,Synonym,Grippe,1
-6142004,11204018,0,31jan2002,Synonym,"Influenza, NOS",1
-637921000000108,1405311000000115,1,01apr2010,Fully specified name,Acute respiratory infection NOS (disorder),1
-637921000000108,1405301000000117,1,01apr2010,Synonym,Acute respiratory infection NOS,1
-64917006,804363013,1,31jul2017,Fully specified name,Parainfluenza virus pneumonia (disorder),1
-64917006,107903018,1,31jul2017,Synonym,Parainfluenza virus pneumonia,1
-64917006,1232627018,1,31jul2017,Synonym,Pneumonia due to parainfluenza virus,1
-64917006,3035270018,1,31jul2017,Synonym,Parainfluenza pneumonia,1
-64917006,499984015,1,31jul2017,Synonym,Parainfluenzal pneumonia,1
-709410003,3040271019,1,31jul2015,Fully specified name,Haemophilus influenzae type b infection (disorder),1
-709410003,2496051000000114,1,01jun2019,Synonym,Hib (Haemophilus influenzae type b) infection,1
-709410003,3039757019,1,31jul2015,Synonym,Haemophilus influenzae type b infection,1
-711330007,3078448011,1,31jul2015,Fully specified name,Influenza A virus subtype H1N1 detected (finding),1
-711330007,3078435012,1,31jul2015,Synonym,Influenza A virus subtype H1N1 detected,1
-74644004,815166011,1,31jul2017,Fully specified name,Influenza with encephalopathy (disorder),1
-74644004,123962018,1,31jul2017,Synonym,Influenza with encephalopathy,1
-91428005,834740018,1,31jul2007,Fully specified name,Haemophilus influenzae infection (disorder),1
-91428005,151462017,1,31jul2007,Synonym,Haemophilus influenzae infection,1
-91428005,509445013,0,31jan2009,Synonym,Hemophilus influenzae infection,1
-91428005,151463010,0,31jan2002,Synonym,"Haemophilus influenzae infection, NOS",1
-95891005,840140017,1,31jul2017,Fully specified name,Influenza-like illness (finding),1
-95891005,1235951017,1,31jul2017,Synonym,Flu-like illness,1
-95891005,158839016,1,31jul2017,Synonym,Influenza-like illness,1
-95891005,158840019,1,31jul2017,Synonym,Flu-like symptoms,1
-95891005,2920741013,1,31jul2017,Synonym,Influenza like illness,1
+"1033051000000101","2608901000000112",1,01apr2016,"Fully specified name","Influenza due to zoonotic influenza virus (disorder)",1
+"1033051000000101","2608911000000114",1,01apr2016,"Synonym","Influenza due to zoonotic influenza virus",1
+"1033071000000105","2608941000000110",1,01apr2016,"Fully specified name","Influenza due to pandemic influenza virus (disorder)",1
+"1033071000000105","2608951000000113",1,01apr2016,"Synonym","Influenza due to pandemic influenza virus",1
+"1033091000000109","2608981000000119",1,01apr2016,"Fully specified name","Influenza due to seasonal influenza virus (disorder)",1
+"1033091000000109","2608991000000117",1,01apr2016,"Synonym","Influenza due to seasonal influenza virus",1
+"10509002","568769014",1,31jul2017,"Fully specified name","Acute bronchitis (disorder)",1
+"10509002","18268014",1,31jul2017,"Synonym","Acute bronchitis",1
+"10509002","18269018",0,31jan2002,"Synonym","Acute bronchitis, NOS",1
+"15199004","741955017",1,31jul2017,"Fully specified name","Acute bronchiolitis with bronchospasm (disorder)",1
+"15199004","25801011",1,31jul2017,"Synonym","Acute bronchiolitis with bronchospasm",1
+"195647007","2817369017",1,31jul2017,"Fully specified name","Acute respiratory infection (disorder)",1
+"195647007","579771017",0,31jul2009,"Fully specified name","Acute respiratory infections (disorder)",1
+"195647007","2817368013",1,31jul2017,"Synonym","Acute respiratory infection",1
+"195647007","300997012",1,31jul2017,"Synonym","Acute respiratory infections",1
+"195647007","300998019",1,31jan2002,"Synonym","ARI - Acute respiratory infections",1
+"195712009","2820608016",1,31jul2017,"Fully specified name","Acute bronchitis and/or bronchiolitis (disorder)",1
+"195712009","579845012",0,31jul2009,"Fully specified name","Acute bronchitis and bronchiolitis (disorder)",1
+"195712009","2820607014",1,31jul2017,"Synonym","Acute bronchitis and/or bronchiolitis",1
+"195712009","301095014",0,31jul2009,"Synonym","Acute bronchitis and bronchiolitis",1
+"195714005","2475602011",1,31jul2017,"Synonym","Acute croupous bronchitis",1
+"195717003","579851019",1,31jul2017,"Fully specified name","Acute purulent bronchitis (disorder)",1
+"195717003","301103013",1,31jul2017,"Synonym","Acute purulent bronchitis",1
+"195719000","579853016",1,31jul2017,"Fully specified name","Acute pneumococcal bronchitis (disorder)",1
+"195719000","301105018",1,31jul2017,"Synonym","Acute pneumococcal bronchitis",1
+"195720006","579854010",1,31jul2017,"Fully specified name","Acute streptococcal bronchitis (disorder)",1
+"195720006","301106017",1,31jul2017,"Synonym","Acute streptococcal bronchitis",1
+"195721005","4697256015",1,28feb2022,"Fully specified name","Acute bronchitis caused by Haemophilus influenzae (disorder)",1
+"195721005","579855011",0,28feb2022,"Fully specified name","Acute haemophilus influenzae bronchitis (disorder)",1
+"195721005","4697257012",1,28feb2022,"Synonym","Acute bronchitis caused by Haemophilus influenzae",1
+"195721005","301108016",0,28feb2022,"Synonym","Acute haemophilus influenzae bronchitis",1
+"195721005","301107014",0,31jan2009,"Synonym","Acute hemophilus influenzae bronchitis",1
+"195722003","2461663014",1,31jul2004,"Fully specified name","Acute Moraxella catarrhalis bronchitis (disorder)",1
+"195722003","579856012",0,31jul2004,"Fully specified name","Acute Neisseria catarrhalis bronchitis (disorder)",1
+"195722003","2470034017",1,31jul2004,"Synonym","Acute Moraxella catarrhalis bronchitis",1
+"195722003","301109012",1,31jan2002,"Synonym","Acute Neisseria catarrhalis bronchitis",1
+"195725001","579859017",1,31jul2017,"Fully specified name","Acute coxsackievirus bronchitis (disorder)",1
+"195725001","301112010",1,31jul2017,"Synonym","Acute coxsackievirus bronchitis",1
+"195725001","301113017",1,31jul2017,"Synonym","Acute coxsackieviral bronchitis",1
+"195725001","3300309019",1,31jul2017,"Synonym","Acute bronchitis caused by coxsackievirus",1
+"195726000","579861014",1,31jul2017,"Fully specified name","Acute parainfluenza virus bronchitis (disorder)",1
+"195726000","301114011",1,31jul2017,"Synonym","Acute parainfluenza virus bronchitis",1
+"195727009","579862019",1,31jul2017,"Fully specified name","Acute respiratory syncytial virus bronchitis (disorder)",1
+"195727009","301115012",1,31jul2017,"Synonym","Acute respiratory syncytial virus bronchitis",1
+"195728004","3290516017",1,31jul2017,"Fully specified name","Acute bronchitis caused by rhinovirus (disorder)",1
+"195728004","579863012",0,31jan2016,"Fully specified name","Acute bronchitis due to rhinovirus (disorder)",1
+"195728004","301116013",1,31jul2017,"Synonym","Acute bronchitis due to rhinovirus",1
+"195728004","3290504011",1,31jul2017,"Synonym","Acute bronchitis caused by rhinovirus",1
+"195729007","579864018",1,31jul2017,"Fully specified name","Acute echovirus bronchitis (disorder)",1
+"195729007","301117016",1,31jul2017,"Synonym","Acute echovirus bronchitis",1
+"195729007","301118014",1,31jul2017,"Synonym","Acute echoviral bronchitis",1
+"195729007","3035673014",1,31jul2017,"Synonym","Acute bronchitis due to echovirus",1
+"195737004","579873014",1,31jul2017,"Fully specified name","Acute exudative bronchiolitis (disorder)",1
+"195737004","301126018",1,31jul2017,"Synonym","Acute exudative bronchiolitis",1
+"195739001","3290491014",1,31jul2017,"Fully specified name","Acute bronchiolitis caused by respiratory syncytial virus (disorder)",1
+"195739001","579875019",0,31jan2016,"Fully specified name","Acute bronchiolitis due to respiratory syncytial virus (disorder)",1
+"195739001","301128017",1,31jul2017,"Synonym","Acute bronchiolitis due to respiratory syncytial virus",1
+"195739001","3290582012",1,31jul2017,"Synonym","Acute bronchiolitis caused by respiratory syncytial virus",1
+"195742007","2562212010",1,31jul2017,"Fully specified name","Acute lower respiratory tract infection (disorder)",1
+"195742007","579878017",0,31jan2006,"Fully specified name","Acute lower respiratory tract infection",1
+"195742007","301131016",1,31jul2017,"Synonym","Acute lower respiratory tract infection",1
+"195878008","580034011",1,31jul2017,"Fully specified name","Pneumonia and influenza (disorder)",1
+"195878008","301357010",1,31jul2017,"Synonym","Pneumonia and influenza",1
+"195923003","580085015",1,31jul2017,"Fully specified name","Influenza with laryngitis (disorder)",1
+"195923003","301416019",1,31jul2017,"Synonym","Influenza with laryngitis",1
+"195924009","580086019",1,31jul2017,"Fully specified name","Influenza with pharyngitis (disorder)",1
+"195924009","301417011",1,31jul2017,"Synonym","Influenza with pharyngitis",1
+"233598009","621803011",1,31jul2017,"Fully specified name","Acute bacterial bronchitis (disorder)",1
+"233598009","350042013",1,31jul2017,"Synonym","Acute bacterial bronchitis",1
+"233599001","621804017",1,31jul2017,"Fully specified name","Acute mycoplasmal bronchitis (disorder)",1
+"233599001","350043015",1,31jul2017,"Synonym","Acute mycoplasmal bronchitis",1
+"233599001","350044014",1,31jul2017,"Synonym","Acute bronchitis due to mycoplasma pneumoniae",1
+"233601004","621806015",1,31jul2017,"Fully specified name","Acute viral bronchitis (disorder)",1
+"233601004","350046011",1,31jul2017,"Synonym","Acute viral bronchitis",1
+"233602006","621807012",1,31jul2017,"Fully specified name","Acute viral bronchiolitis (disorder)",1
+"233602006","350047019",1,31jul2017,"Synonym","Acute viral bronchiolitis",1
+"275498002","668374017",1,31jul2017,"Fully specified name","Respiratory tract infection (disorder)",1
+"275498002","411488017",1,31jul2017,"Synonym","Respiratory tract infection",1
+"275498002","411489013",1,31jan2002,"Synonym","RTI - Respiratory tract infection",1
+"275499005","668375016",1,31jul2017,"Fully specified name","Acute wheezy bronchitis (disorder)",1
+"275499005","411490016",1,31jul2017,"Synonym","Acute wheezy bronchitis",1
+"312371005","709040012",1,31jul2017,"Fully specified name","Acute infective bronchitis (disorder)",1
+"312371005","456072011",1,31jul2017,"Synonym","Acute infective bronchitis",1
+"315642008","712554017",1,31jul2017,"Fully specified name","Influenza-like symptoms (finding)",1
+"315642008","460161011",1,31jul2017,"Synonym","Influenza-like symptoms",1
+"32398004","763675014",1,31jul2017,"Fully specified name","Bronchitis (disorder)",1
+"32398004","54101019",1,31jul2017,"Synonym","Bronchitis",1
+"32398004","54102014",0,31jan2002,"Synonym","Bronchitis, NOS",1
+"4120002","777962012",1,31jul2017,"Fully specified name","Bronchiolitis (disorder)",1
+"4120002","8354017",1,31jul2017,"Synonym","Bronchiolitis",1
+"4120002","8355016",0,31jan2002,"Synonym","Bronchiolitis, NOS",1
+"440927002","3034698018",1,31jan2015,"Fully specified name","Influenza A virus subtype H2 present (finding)",1
+"440927002","2880914016",0,31jan2015,"Fully specified name","Influenza A virus subtype H2 virus present (finding)",1
+"440927002","2788738012",0,31jan2011,"Fully specified name","Influenza H2 virus present (finding)",1
+"440927002","3034688012",1,31jan2015,"Synonym","Influenza A virus subtype H2 present",1
+"440927002","2882419012",0,31jan2015,"Synonym","Influenza A virus subtype H2 virus present",1
+"440927002","2793765017",0,31jan2011,"Synonym","Influenza H2 virus present",1
+"441043003","2880912017",1,31jan2011,"Fully specified name","Influenza A virus subtype H1 present (finding)",1
+"441043003","2788247017",0,31jan2011,"Fully specified name","Influenza H1 virus present (finding)",1
+"441043003","2882417014",1,31jan2011,"Synonym","Influenza A virus subtype H1 present",1
+"441043003","2790536012",0,31jan2011,"Synonym","Influenza H1 virus present",1
+"441049004","2880916019",1,31jan2011,"Fully specified name","Influenza A virus subtype H3 present (finding)",1
+"441049004","2787945015",0,31jan2011,"Fully specified name","Influenza H3 virus present (finding)",1
+"441049004","2882421019",1,31jan2011,"Synonym","Influenza A virus subtype H3 present",1
+"441049004","2791843016",0,31jan2011,"Synonym","Influenza H3 virus present",1
+"441343005","2880919014",1,31jan2011,"Fully specified name","Influenza A virus subtype H5 present (finding)",1
+"441343005","2788254011",0,31jan2011,"Fully specified name","Influenza H5 virus present (finding)",1
+"441343005","2882423016",1,31jan2011,"Synonym","Influenza A virus subtype H5 present",1
+"441343005","2793730017",0,31jan2011,"Synonym","Influenza H5 virus present",1
+"441344004","2788246014",1,31jan2020,"Fully specified name","Human parainfluenza virus present (finding)",1
+"441344004","2790535011",1,31jan2020,"Synonym","Human parainfluenza virus present",1
+"441345003","2788590017",1,31jan2009,"Fully specified name","Influenza B virus present (finding)",1
+"441345003","2794563017",1,31jan2009,"Synonym","Influenza B virus present",1
+"442696006","3293824017",1,31jan2016,"Fully specified name","Influenza caused by Influenza A virus subtype H1N1 (disorder)",1
+"442696006","2820796015",0,31jan2016,"Fully specified name","Influenza due to Influenza A virus subtype H1N1 (disorder)",1
+"442696006","1128141000000118",1,01jun2019,"Synonym","Influenza A (H1N1) swine flu",1
+"442696006","3291265019",1,31jan2016,"Synonym","Influenza caused by Influenza A virus subtype H1N1",1
+"442696006","2820794017",1,31jul2009,"Synonym","Influenza A (H1N1)",1
+"442696006","2820795016",1,31jul2009,"Synonym","Influenza due to Influenza A virus subtype H1N1",1
+"442696006","3990764019",0,31jul2021,"Synonym","Swine influenza",1
+"445102008","3295529019",1,31jan2016,"Fully specified name","Inflammation of bronchiole caused by Human metapneumovirus (disorder)",1
+"445102008","2869284015",0,31jan2016,"Fully specified name","Inflammation of bronchiole due to Human metapneumovirus (disorder)",1
+"445102008","3291618016",1,31jan2016,"Synonym","Acute bronchiolitis caused by Human metapneumovirus",1
+"445102008","3291849011",1,31jan2016,"Synonym","Bronchiolitis caused by Human metapneumovirus",1
+"445102008","3294114019",1,31jan2016,"Synonym","Inflammation of bronchiole caused by Human metapneumovirus",1
+"445102008","2988948018",1,31jan2014,"Synonym","Acute bronchiolitis due to Human metapneumovirus",1
+"445102008","2872684012",1,31jul2010,"Synonym","Inflammation of bronchiole due to Human metapneumovirus",1
+"445102008","2872685013",1,31jul2010,"Synonym","Bronchiolitis due to Human metapneumovirus",1
+"50417007","788203016",1,31jul2017,"Fully specified name","Lower respiratory tract infection (disorder)",1
+"50417007","83992015",1,31jul2017,"Synonym","Lower respiratory tract infection",1
+"50417007","83996017",1,31jul2017,"Synonym","Lower respiratory infection",1
+"50417007","83997014",1,31jul2017,"Synonym","Chest cold",1
+"50417007","1230862016",1,31jul2003,"Synonym","LRTI - Lower respiratory tract infection",1
+"50417007","83993013",0,31jan2002,"Synonym","Lower respiratory tract infection, NOS",1
+"50417007","83994019",0,31jan2002,"Synonym","Lower respiratory infection, NOS",1
+"50417007","83995018",0,31jan2002,"Synonym","Chest cold, NOS",1
+"540151000000108","1204921000000113",1,01apr2010,"Fully specified name","Pneumonia or influenza NOS (disorder)",1
+"540151000000108","1204911000000119",1,01apr2010,"Synonym","Pneumonia or influenza NOS",1
+"5505005","793349011",1,31jul2017,"Fully specified name","Acute bronchiolitis (disorder)",1
+"5505005","10187013",1,31jul2017,"Synonym","Acute bronchiolitis",1
+"5505005","10188015",0,31jan2002,"Synonym","Acute bronchiolitis, NOS",1
+"55604004","793993016",1,31jul2008,"Fully specified name","Avian influenza (disorder)",1
+"55604004","2620948011",1,31jul2017,"Synonym","Bird flu",1
+"55604004","92429016",1,31jul2008,"Synonym","Avian influenza",1
+"55604004","2620947018",1,31jul2006,"Synonym","Avian flu",1
+"55735004","794150013",1,31jul2017,"Fully specified name","Respiratory syncytial virus infection (disorder)",1
+"55735004","92677014",1,31jul2017,"Synonym","Respiratory syncytial virus infection",1
+"55735004","1231522017",1,31jul2003,"Synonym","RSV - Respiratory syncytial virus infection",1
+"55735004","92678016",0,31jan2002,"Synonym","Respiratory syncytial virus infection, NOS",1
+"6142004","800481016",1,31jul2017,"Fully specified name","Influenza (disorder)",1
+"6142004","11203012",1,31jul2017,"Synonym","Influenza",1
+"6142004","11205017",1,31jul2017,"Synonym","Flu",1
+"6142004","11204018",0,31jan2002,"Synonym","Influenza, NOS",1
+"637921000000108","1405311000000115",1,01apr2010,"Fully specified name","Acute respiratory infection NOS (disorder)",1
+"637921000000108","1405301000000117",1,01apr2010,"Synonym","Acute respiratory infection NOS",1
+"64917006","804363013",1,31jul2017,"Fully specified name","Parainfluenza virus pneumonia (disorder)",1
+"64917006","107903018",1,31jul2017,"Synonym","Parainfluenza virus pneumonia",1
+"64917006","1232627018",1,31jul2017,"Synonym","Pneumonia due to parainfluenza virus",1
+"64917006","3035270018",1,31jul2017,"Synonym","Parainfluenza pneumonia",1
+"64917006","499984015",1,31jul2017,"Synonym","Parainfluenzal pneumonia",1
+"709410003","3040271019",1,31jul2015,"Fully specified name","Haemophilus influenzae type b infection (disorder)",1
+"709410003","2496051000000114",1,01jun2019,"Synonym","Hib (Haemophilus influenzae type b) infection",1
+"709410003","3039757019",1,31jul2015,"Synonym","Haemophilus influenzae type b infection",1
+"711330007","3078448011",1,31jul2015,"Fully specified name","Influenza A virus subtype H1N1 detected (finding)",1
+"711330007","3078435012",1,31jul2015,"Synonym","Influenza A virus subtype H1N1 detected",1
+"74644004","815166011",1,31jul2017,"Fully specified name","Influenza with encephalopathy (disorder)",1
+"74644004","123962018",1,31jul2017,"Synonym","Influenza with encephalopathy",1
+"91428005","834740018",1,31jul2007,"Fully specified name","Haemophilus influenzae infection (disorder)",1
+"91428005","151462017",1,31jul2007,"Synonym","Haemophilus influenzae infection",1
+"91428005","509445013",0,31jan2009,"Synonym","Hemophilus influenzae infection",1
+"91428005","151463010",0,31jan2002,"Synonym","Haemophilus influenzae infection, NOS",1
+"95891005","840140017",1,31jul2017,"Fully specified name","Influenza-like illness (finding)",1
+"95891005","1235951017",1,31jul2017,"Synonym","Flu-like illness",1
+"95891005","158839016",1,31jul2017,"Synonym","Influenza-like illness",1
+"95891005","158840019",1,31jul2017,"Synonym","Flu-like symptoms",1
+"95891005","2920741013",1,31jul2017,"Synonym","Influenza like illness",1
