@@ -13,7 +13,7 @@ In summary, an AECOPD can be in found in primary care EHRs by **excluding any ev
  
 Any of these events closer together than 14 days are considered part of the same exacerbation event.
 
-**Prescription duration is poorly recorded in CPRD Aurum, therefore any day where a patient receives a prescription for both an antibiotic and oral corticosteroid is counted as an exacerbation event)*
+**Prescription duration is poorly recorded in CPRD Aurum, therefore any day where a patient receives a prescription for both an antibiotic and oral corticosteroid is counted as an exacerbation event*
 
 ## Example *Stata* code
 The [do file](AECOPD_method.do) containing this code as well as the [annual_review](codelists/annual_review.csv), [AECOPD_symptoms](codelists/AECOPD_symptoms.csv), [LRTI](codelists/LRTI.csv), [AECOPD](codelists/AECOPD.csv), and [antibiotics_ocs](codelists/antibiotics_ocs.csv) codelists can be found in the parent directory of this repository.
