@@ -6,12 +6,14 @@ The **Algorithms with PPV > 75%** shown below represent the best AECOPD detectio
 ![](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0151357.t006)
 
 In summary, an AECOPD can be in found in primary care EHRs by **excluding any events on a [COPD annual review](codelists/annual_review.csv) day** and searching for any of the following events:
- - A prescription of [antibiotics *and* oral corticosteroids](codelists/antibiotics_ocs.csv) for 5–14 days
+ - A prescription of [antibiotics *and* oral corticosteroids](codelists/antibiotics_ocs.csv) for 5–14 days*
  - [Respiratory symptoms](codelists/AECOPD_symptoms.csv) (2+) with a prescription for an [antibiotic *or* oral corticosteroid](codelists/antibiotics_ocs.csv)
  - A [lower respiratory tract infection (LRTI) code](codelists/LRTI.csv)
  - An [AECOPD code](codelists/AECOPD.csv)
  
- Any of these events closer together than 14 days are considered part of the same exacerbation event.
+Any of these events closer together than 14 days are considered part of the same exacerbation event.
+
+**Prescription duration is poorly recorded in CPRD Aurum, therefore any day where a patient receives a prescription for both an antibiotic and oral corticosteroid is counted as an exacerbation event)*
 
 ## Example *Stata* code
 The [do file](AECOPD_method.do) containing this code as well as the [annual_review](codelists/annual_review.csv), [AECOPD_symptoms](codelists/AECOPD_symptoms.csv), [LRTI](codelists/LRTI.csv), [AECOPD](codelists/AECOPD.csv), and [antibiotics_ocs](codelists/antibiotics_ocs.csv) codelists can be found in the parent directory of this repository.
