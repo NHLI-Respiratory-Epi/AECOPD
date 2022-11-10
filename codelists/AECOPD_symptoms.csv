@@ -1,0 +1,418 @@
+snomedctconceptid,snomedctdescriptionid,active,effectivetime,typeid,snomedctterm,breathlessness,cough,sputum
+1038001000000107,2619861000000111,1,01apr2016,Fully specified name,howRthey rating score - pain and/or distress (observable entity),1,,
+1038001000000107,2619871000000116,1,01apr2016,Synonym,howRthey rating score - pain and/or distress,1,,
+104173009,559511013,1,31jul2017,Fully specified name,Microbial culture of sputum (procedure),,,1
+104173009,168044010,1,31jul2017,Synonym,Microbial culture of sputum,,,1
+11833005,698598016,1,31jul2017,Fully specified name,Dry cough (finding),,1,
+11833005,3516867016,1,31jan2018,Synonym,Non-productive cough,,1,
+11833005,20419011,1,31jul2017,Synonym,Dry cough,,1,
+11833005,20420017,1,31jul2017,Synonym,Unproductive cough,,1,
+119334006,706779013,1,31jul2017,Fully specified name,Sputum specimen (specimen),,,1
+119334006,1220451015,1,31jul2017,Synonym,Sputum sample,,,1
+119334006,180853012,1,31jul2017,Synonym,Sputum specimen,,,1
+119335007,706789012,1,31jul2017,Fully specified name,Coughed sputum specimen (specimen),,,1
+119335007,1220452010,1,31jul2017,Synonym,Sputum - coughed sample,,,1
+119335007,180854018,1,31jul2017,Synonym,Coughed sputum specimen,,,1
+12700001000004106,3078531018,1,31jul2015,Fully specified name,Sputum culture positive for Pseudomonas (finding),,,1
+12700001000004106,3078591016,1,31jul2015,Synonym,Sputum culture positive for Pseudomonas,,,1
+13290001000004109,3078487011,1,31jul2015,Fully specified name,Sputum culture positive for Aspergillus (finding),,,1
+13290001000004109,3078313015,1,31jul2015,Synonym,Sputum culture positive for Aspergillus,,,1
+13320001000004109,3078379014,1,31jul2017,Fully specified name,Sputum culture positive for human respiratory syncytial virus (finding),,,1
+13320001000004109,3078555011,1,31jul2017,Synonym,Sputum culture positive for human respiratory syncytial virus,,,1
+13320001000004109,3079055013,1,31jul2017,Synonym,Respiratory syncytial virus positive sputum culture,,,1
+13320001000004109,3078741018,1,31jul2015,Synonym,Positive sputum culture for hRSV (Human respiratory syncytial virus),,,1
+135883003,514392019,1,31jul2017,Fully specified name,Cough with fever (finding),,1,
+135883003,216653013,1,31jul2017,Synonym,Cough with fever,,1,
+161923004,543006016,1,31jul2017,Fully specified name,Productive cough -clear sputum (finding),,1,1
+161923004,252351017,1,31jul2017,Synonym,Productive cough -clear sputum,,1,1
+161924005,543008015,1,31jul2017,Fully specified name,Productive cough -green sputum (finding),,1,1
+161924005,252352012,1,31jul2017,Synonym,Productive cough -green sputum,,1,1
+161925006,543009011,1,31jul2017,Fully specified name,Productive cough-yellow sputum (finding),,1,1
+161925006,252353019,1,31jul2017,Synonym,Productive cough-yellow sputum,,1,1
+161927003,2607019013,1,31jul2017,Fully specified name,Night cough present (situation),,1,
+161927003,2461436018,0,31jul2006,Fully specified name,Night cough present (context-dependent category),,1,
+161927003,543011019,0,31jul2004,Fully specified name,Night cough present (finding),,1,
+161927003,252357018,1,31jul2017,Synonym,Night cough present,,1,
+161929000,543013016,1,31jul2017,Fully specified name,Chesty cough (finding),,1,
+161929000,252359015,1,31jul2017,Synonym,Chesty cough,,1,
+161929000,252360013,1,31jul2017,Synonym,Bronchial cough,,1,
+161932002,543016012,1,31jul2017,Fully specified name,Morning cough (finding),,1,
+161932002,252363010,1,31jul2017,Synonym,Morning cough,,1,
+161933007,543017015,1,31jul2017,Fully specified name,Evening cough (finding),,1,
+161933007,252364016,1,31jul2017,Synonym,Evening cough,,1,
+161941007,543026017,1,31jul2017,Fully specified name,Dyspnea at rest (finding),1,,
+161941007,252387012,1,31jul2017,Synonym,Breathless - at rest,1,,
+161941007,252389010,1,31jul2017,Synonym,Dyspnoea at rest,1,,
+161941007,252390018,1,31jul2017,Synonym,Dyspnea at rest,1,,
+161941007,252388019,1,31jan2002,Synonym,SOBAR - Shortness of breath at rest,1,,
+161947006,543034011,1,31jul2017,Fully specified name,Nocturnal cough / wheeze (finding),,1,
+161947006,252406018,1,31jul2017,Synonym,Nocturnal cough / wheeze,,1,
+162890008,2561430016,1,31jul2017,Fully specified name,On examination - dyspnea (finding),1,,
+162890008,544047014,0,31jan2006,Fully specified name,On examination - dyspnea (context-dependent category),1,,
+162890008,3789175019,1,31jan2020,Synonym,On examination - dyspnoea,1,,
+162890008,2667239013,1,31jul2017,Synonym,On examination - dyspnea,1,,
+162890008,253888018,1,31jul2003,Synonym,O/E - dyspnea,1,,
+162890008,253889014,1,31jan2002,Synonym,O/E - dyspnoea,1,,
+162892000,2561432012,1,31jul2017,Fully specified name,On examination - respiratory distress (finding),1,,
+162892000,544049012,0,31jan2006,Fully specified name,On examination - respiratory distress (context-dependent category),1,,
+162892000,2667241014,1,31jul2017,Synonym,On examination - respiratory distress,1,,
+162892000,253892013,1,31jan2002,Synonym,O/E - respiratory distress,1,,
+167984002,2607333019,1,31jul2017,Fully specified name,Sputum sent for examination (situation),,,1
+167984002,549658018,0,31jul2006,Fully specified name,Sputum sent for examination (context-dependent category),,,1
+167984002,260946013,1,31jul2017,Synonym,Sputum sent for examination,,,1
+167985001,549659014,1,31jul2017,Fully specified name,Sputum examination: normal (finding),,,1
+167985001,260947016,1,31jul2017,Synonym,Sputum examination: normal,,,1
+167986000,549661017,1,31jul2017,Fully specified name,Sputum examination: abnormal (finding),,,1
+167986000,260949018,1,31jul2017,Synonym,Sputum examination: abnormal,,,1
+167987009,549662012,1,31jul2017,Fully specified name,Sputum - not infected (finding),,,1
+167987009,260950018,1,31jul2017,Synonym,Sputum - not infected,,,1
+167989007,549664013,1,31jul2017,Fully specified name,Sputum inspection (procedure),,,1
+167989007,260952014,1,31jul2017,Synonym,Sputum inspection,,,1
+167990003,549665014,1,31jul2017,Fully specified name,Sputum appears normal (finding),,,1
+167990003,260953016,1,31jul2017,Synonym,Sputum appears normal,,,1
+167991004,549666010,1,31jul2017,Fully specified name,Sputum: excessive - mucoid (finding),,,1
+167991004,260954010,1,31jul2017,Synonym,Sputum: excessive - mucoid,,,1
+167992006,549667018,1,31jul2017,Fully specified name,Sputum: frothy/watery (finding),,,1
+167992006,260955011,1,31jul2017,Synonym,Sputum: frothy/watery,,,1
+167995008,549671015,1,31jul2017,Fully specified name,Sputum microscopy (procedure),,,1
+167995008,260959017,1,31jul2017,Synonym,Sputum microscopy,,,1
+167995008,2958629011,1,31jul2017,Synonym,Microscopic examination of sputum specimen,,,1
+167996009,2975432015,1,31jul2017,Fully specified name,Sputum microscopy: no abnormality detected (finding),,,1
+167996009,549672010,0,31jan2014,Fully specified name,Sputum microscopy: NAD (finding),,,1
+167996009,2975195010,1,31jul2017,Synonym,Sputum microscopy: no abnormality detected,,,1
+167996009,260960010,1,31jan2002,Synonym,Sputum microscopy: NAD,,,1
+167997000,549673017,1,31jul2017,Fully specified name,Sputum: eosinophilia (finding),,,1
+167997000,260961014,1,31jul2017,Synonym,Sputum: eosinophilia,,,1
+167998005,549674011,1,31jul2017,Fully specified name,Sputum: malignant cells (finding),,,1
+167998005,260962019,1,31jul2017,Synonym,Sputum: malignant cells,,,1
+167999002,549675012,1,31jul2017,Fully specified name,Sputum: asbestos bodies (finding),,,1
+167999002,260963012,1,31jul2017,Synonym,Sputum: asbestos bodies,,,1
+168000008,549676013,1,31jul2017,Fully specified name,Sputum: blood cells present (finding),,,1
+168000008,260964018,1,31jul2017,Synonym,Sputum: blood cells present,,,1
+168001007,549677016,1,31jul2017,Fully specified name,Sputum: pus cells present (finding),,,1
+168001007,260965017,1,31jul2017,Synonym,Sputum: pus cells present,,,1
+168002000,549678014,1,31jul2017,Fully specified name,Identification of organism on gram stain of sputum (procedure),,,1
+168002000,260966016,1,31jul2017,Synonym,Identification of organism on gram stain of sputum,,,1
+168002000,260967013,1,31jul2017,Synonym,Sputum: organism on gram stain,,,1
+168302007,3752772017,1,31jan2019,Fully specified name,Sputum sent for culture and sensitivity (situation),,,1
+168302007,2607949012,0,31jan2019,Fully specified name,Sputum sent for C/S (situation),,,1
+168302007,550008011,0,31jul2006,Fully specified name,Sputum sent for C/S (context-dependent category),,,1
+168302007,3752773010,1,31jan2019,Synonym,Sputum sent for culture and sensitivity,,,1
+168302007,261391015,1,31jan2002,Synonym,Sputum sent for C/S,,,1
+168476005,550201010,1,31jul2017,Fully specified name,Sputum cytology (finding),,,1
+168476005,261629017,1,31jul2017,Synonym,Sputum cytology,,,1
+168477001,550202015,1,31jul2017,Fully specified name,Sputum cytology positive (finding),,,1
+168477001,261630010,1,31jul2017,Synonym,Sputum cytology positive,,,1
+17986004,745351012,1,31jul2017,Fully specified name,Barking cough (finding),,1,
+17986004,30371011,1,31jul2017,Synonym,Barking cough,,1,
+19282004,747234015,1,31jul2017,Fully specified name,Cough on exercise (finding),,1,
+19282004,479311018,1,31jul2017,Synonym,Cough on exercise,,1,
+19282004,32526011,0,31jan2002,Synonym,Cough after exercise,,1,
+200151000000106,303311000000114,1,01apr2006,Fully specified name,Reflux cough (finding),,1,
+200151000000106,303321000000115,1,01apr2006,Synonym,Reflux cough,,1,
+20670007,749878013,1,31jul2017,Fully specified name,Brassy cough (finding),,1,
+20670007,34779016,1,31jul2017,Synonym,Brassy cough,,1,
+208136003,593782010,1,31jul2017,Fully specified name,Cough fracture of ribs (disorder),,1,
+208136003,318641016,1,31jul2017,Synonym,Cough fracture of ribs,,1,
+208136003,318642011,1,31jul2017,Synonym,Cough fracture,,1,
+225575005,612837019,1,31jul2017,Fully specified name,Unable to cough up sputum (finding),,1,
+225575005,338985014,1,31jul2017,Synonym,Unable to cough up sputum,,1,
+225576006,612838012,1,31jul2017,Fully specified name,Able to cough up sputum (finding),,1,1
+225576006,338986010,1,31jul2017,Synonym,Able to cough up sputum,,1,1
+225576006,338987018,0,31jan2018,Synonym,Sputum loose,,1,1
+226641000000105,487511000000118,1,02apr2007,Fully specified name,Expectoration of induced sputum from respiratory tract (procedure),,,1
+226641000000105,362441000000113,0,02apr2007,Fully specified name,Induced sputum (procedure),,,1
+226641000000105,487521000000112,1,02apr2007,Synonym,Expectoration of induced sputum from respiratory tract,,,1
+226641000000105,362451000000111,1,02oct2006,Synonym,Induced sputum,,,1
+230145002,617916018,1,31jul2017,Fully specified name,Difficulty breathing (finding),1,,
+230145002,344917018,1,31jul2017,Synonym,Difficulty breathing,1,,
+230145002,344918011,1,31jul2017,Synonym,Respiration difficult,1,,
+230145002,344919015,1,31jan2002,Synonym,DIB - Difficulty in breathing,1,,
+247410004,637578013,1,31jul2017,Fully specified name,Painful cough (finding),,1,
+247410004,369436013,1,31jul2017,Synonym,Painful cough,,1,
+24816000,754496018,1,31jul2017,Fully specified name,Rusty sputum (finding),,,1
+24816000,482025017,1,31jul2017,Synonym,Rusty sputum,,,1
+24816000,41591010,0,31jan2002,Synonym,Expectoration of rusty sputum,,,1
+248593001,638916011,1,31jul2017,Fully specified name,Cough when swallowing (finding),,1,
+248593001,371073019,1,31jul2017,Synonym,Cough when swallowing,,1,
+248593001,371074013,1,31jul2017,Synonym,Coughs when swallowing,,1,
+248595008,638918012,1,31jul2017,Fully specified name,Sputum finding (finding),,,1
+248595008,1224121012,1,31jul2017,Synonym,Sputum observation,,,1
+248595008,371079015,1,31jul2017,Synonym,Phlegm observation,,,1
+248595008,371080017,1,31jul2017,Synonym,Sputum finding,,,1
+248596009,638919016,1,31jul2017,Fully specified name,Sputum - symptom (finding),,,1
+248596009,371081018,1,31jul2017,Synonym,Sputum - symptom,,,1
+248598005,638921014,1,31jul2017,Fully specified name,Sputum volume (observable entity),,,1
+248598005,371083015,1,31jul2017,Synonym,Sputum volume,,,1
+248598005,371084014,1,31jul2017,Synonym,Volume of sputum,,,1
+248599002,638922019,1,31jul2017,Fully specified name,Copious sputum (finding),,,1
+248599002,371085010,1,31jul2017,Synonym,Profuse sputum,,,1
+248599002,371086011,1,31jul2017,Synonym,Copious sputum,,,1
+248600004,638923012,1,31jul2017,Fully specified name,Moderate sputum (finding),,,1
+248600004,371087019,1,31jul2017,Synonym,Moderate sputum,,,1
+248601000,638924018,1,31jul2017,Fully specified name,Scanty sputum (finding),,,1
+248601000,371088012,1,31jul2017,Synonym,Scanty sputum,,,1
+248603002,638927013,1,31jul2017,Fully specified name,Consistency of sputum (observable entity),,,1
+248603002,1224123010,1,31jul2017,Synonym,Observation of consistency of sputum,,,1
+248603002,371090013,1,31jul2017,Synonym,Consistency of sputum,,,1
+248604008,638928015,1,31jul2017,Fully specified name,Clear sputum (finding),,,1
+248604008,371091012,1,31jul2017,Synonym,Clear sputum,,,1
+248605009,638929011,1,31jul2017,Fully specified name,Dirty sputum (finding),,,1
+248605009,371092017,1,31jul2017,Synonym,Dirty sputum,,,1
+258610001,2754587012,1,31jul2017,Fully specified name,Sputum specimen obtained by sputum induction (specimen),,,1
+258610001,650047014,0,31jul2008,Fully specified name,Sputum - induced sample (specimen),,,1
+258610001,2770189014,1,31jul2017,Synonym,Sputum specimen obtained by sputum induction,,,1
+258610001,384809011,0,31jul2008,Synonym,Sputum - induced sample,,,1
+263731006,2528920013,1,31jul2017,Fully specified name,Coughing (observable entity),,1,
+263731006,655887015,0,31jan2005,Fully specified name,Coughing - function (qualifier value),,1,
+263731006,392016010,1,31jul2017,Synonym,Coughing,,1,
+263731006,392015014,0,31jan2005,Synonym,Coughing - function,,1,
+267036007,659603012,1,31jul2017,Fully specified name,Dyspnea (finding),1,,
+267036007,397885013,1,31jul2017,Synonym,Dyspnea,1,,
+267036007,397886014,1,31jul2017,Synonym,Dyspnoea,1,,
+267036007,397887017,1,31jul2017,Synonym,Breathless,1,,
+267036007,397888010,1,31jul2017,Synonym,Breathlessness,1,,
+267036007,397890011,1,31jul2017,Synonym,Shortness of breath,1,,
+267036007,397889019,1,31jan2002,Synonym,SOB - Shortness of breath,1,,
+269911007,662801010,1,31jul2017,Fully specified name,Sputum examination (procedure),,,1
+269911007,404559012,1,31jul2017,Synonym,Sputum examination,,,1
+269912000,662802015,1,31jan2002,Fully specified name,Sputum: tubercle on Z-N stain (finding),,,1
+269912000,404560019,1,31jan2002,Synonym,Sputum: tubercle on Z-N stain,,,1
+270031000,662931015,1,31jul2017,Fully specified name,Sputum: contains blood (finding),,,1
+270031000,404869014,1,31jul2017,Synonym,Sputum: contains blood,,,1
+271823003,664274011,1,31jul2017,Fully specified name,Tachypnea (finding),1,,
+271823003,1490286012,1,31jul2017,Synonym,Tachypnoeic,1,,
+271823003,1490518017,1,31jul2017,Synonym,Tachypneic,1,,
+271823003,406796019,1,31jul2017,Synonym,Tachypnea,1,,
+271823003,406797011,1,31jul2017,Synonym,Rapid respiration,1,,
+271823003,406798018,1,31jul2017,Synonym,Rapid breathing,1,,
+271823003,406799014,1,31jul2017,Synonym,Tachypnoea,1,,
+271825005,664276013,1,31jul2017,Fully specified name,Respiratory distress (finding),1,,
+271825005,406803010,1,31jul2017,Synonym,Respiratory distress,1,,
+271825005,406804016,1,31jul2017,Synonym,Distressed breathing,1,,
+271826006,664277016,1,31jul2017,Fully specified name,Sputum abnormal - amount (finding),,,1
+271826006,406805015,1,31jul2017,Synonym,Sputum abnormal - amount,,,1
+271827002,664278014,1,31jul2017,Fully specified name,Sputum abnormal - color (finding),,,1
+271827002,406806019,1,31jul2017,Synonym,Sputum abnormal - colour,,,1
+271827002,406807011,1,31jul2017,Synonym,Sputum abnormal - color,,,1
+271828007,664279018,1,31jul2017,Fully specified name,Sputum abnormal - odor (finding),,,1
+271828007,406808018,1,31jul2017,Synonym,Sputum abnormal - odor,,,1
+271828007,406809014,1,31jul2017,Synonym,Sputum abnormal - odour,,,1
+272039006,2571212014,1,31jul2017,Fully specified name,Complaining of cough (finding),,1,
+272039006,664518019,0,31jan2006,Fully specified name,C/O - cough (context-dependent category),,1,
+272039006,2669603018,1,31jul2017,Synonym,Complaining of cough,,1,
+272039006,407081018,1,31jan2002,Synonym,C/O - cough,,1,
+274399004,3645192017,1,31jul2018,Fully specified name,On examination blood in sputum (finding),,,1
+274399004,667151013,0,31jul2018,Fully specified name,Blood in sputum O/E (finding),,,1
+274399004,2462553013,0,31jan2006,Fully specified name,Blood in sputum O/E (context-dependent category),,,1
+274399004,3645193010,1,31jul2018,Synonym,On examination blood in sputum,,,1
+274399004,410197017,1,31jan2002,Synonym,Blood in sputum O/E,,,1
+274400006,667152018,1,31jan2006,Fully specified name,Pus in sputum O/E (finding),,,1
+274400006,2462554019,0,31jan2006,Fully specified name,Pus in sputum O/E (context-dependent category),,,1
+274400006,410198010,1,31jan2002,Synonym,Pus in sputum O/E,,,1
+274708000,667494013,1,31jul2017,Fully specified name,Abnormal sputum (finding),,,1
+274708000,410550010,1,31jul2017,Synonym,Abnormal sputum,,,1
+275718000,668541016,1,31jan2006,Fully specified name,Mucoid sputum - O/E (finding),,,1
+275718000,2462560019,0,31jan2006,Fully specified name,Mucoid sputum - O/E (context-dependent category),,,1
+275718000,411653012,1,31jan2002,Synonym,Mucoid sputum - O/E,,,1
+275719008,668543018,1,31jul2017,Fully specified name,Sputum evidence of infection (finding),,,1
+275719008,411654018,1,31jul2017,Synonym,Sputum evidence of infection,,,1
+275787002,668617012,1,31jul2017,Fully specified name,Acid-fast bacilli in sputum (finding),,,1
+275787002,411742012,1,31jul2017,Synonym,Acid-fast bacilli in sputum,,,1
+275787002,218651000000119,0,01jun2019,Synonym,Acid fast bacilli in sputum,,,1
+276314008,669213010,1,31jul2017,Fully specified name,Coughing ineffective (finding),,1,
+276314008,412397019,1,31jul2017,Synonym,Coughing ineffective,,1,
+277896005,670987019,1,31jul2017,Fully specified name,Color of sputum (observable entity),,,1
+277896005,414633014,1,31jul2017,Synonym,Color of sputum,,,1
+277896005,414634015,1,31jul2017,Synonym,Colour of sputum,,,1
+277900008,670991012,1,31jul2017,Fully specified name,Gray sputum (finding),,,1
+277900008,2764024014,1,31jul2017,Synonym,Gray sputum,,,1
+277900008,414638017,1,31jul2017,Synonym,Grey sputum,,,1
+277901007,670992017,1,31jul2017,Fully specified name,Sputum appearance (observable entity),,,1
+277901007,1225563014,1,31jul2017,Synonym,Appearance of sputum,,,1
+277901007,414639013,1,31jul2017,Synonym,Sputum appearance,,,1
+277902000,670993010,1,31jul2017,Fully specified name,Stringy sputum (finding),,,1
+277902000,414640010,1,31jul2017,Synonym,Stringy sputum,,,1
+277903005,670994016,1,31jul2017,Fully specified name,Thick sputum (finding),,,1
+277903005,414641014,1,31jul2017,Synonym,Thick sputum,,,1
+277904004,670996019,1,31jul2017,Fully specified name,Thin sputum (finding),,,1
+277904004,414642019,1,31jul2017,Synonym,Thin sputum,,,1
+277906002,670998018,1,31jul2017,Fully specified name,Creamy sputum (finding),,,1
+277906002,414645017,1,31jul2017,Synonym,Creamy sputum,,,1
+277907006,670999014,1,31jul2017,Fully specified name,Yellow sputum (finding),,,1
+277907006,414646016,1,31jul2017,Synonym,Yellow sputum,,,1
+277908001,671000013,1,31jul2017,Fully specified name,Green sputum (finding),,,1
+277908001,414647013,1,31jul2017,Synonym,Green sputum,,,1
+277910004,671002017,1,31jul2017,Fully specified name,Brown sputum (finding),,,1
+277910004,414649011,1,31jul2017,Synonym,Brown sputum,,,1
+284523002,678425018,1,31jul2017,Fully specified name,Persistent cough (finding),,1,
+284523002,423230012,1,31jul2017,Synonym,Persistent cough,,1,
+28743005,759457010,1,31jul2017,Fully specified name,Productive cough (finding),,1,1
+28743005,3756603019,1,31jul2019,Synonym,Bronchial cough,,1,1
+28743005,3756604013,1,31jul2019,Synonym,Chesty cough,,1,1
+28743005,1226058012,1,31jul2017,Synonym,Producing sputum,,1,1
+28743005,48123018,1,31jul2017,Synonym,Productive cough,,1,1
+28743005,48124012,1,31jul2017,Synonym,Loose cough,,1,1
+28743005,48125013,1,31jul2017,Synonym,Moist cough,,1,1
+289107006,683516017,1,31jul2017,Fully specified name,Ability to cough (observable entity),,1,
+289107006,428908016,1,31jul2017,Synonym,Ability to cough,,1,
+289113002,683522014,1,31jul2017,Fully specified name,Able to cough (finding),,1,
+289113002,428915012,1,31jul2017,Synonym,Able to cough,,1,
+289114008,683523016,1,31jul2017,Fully specified name,Does cough (finding),,1,
+289114008,428916013,1,31jul2017,Synonym,Does cough,,1,
+289116005,683526012,1,31jul2017,Fully specified name,Difficulty coughing (finding),,1,
+289116005,428918014,1,31jul2017,Synonym,Difficulty coughing,,1,
+289965001,684470014,1,31jul2017,Fully specified name,Croupy cough (finding),,1,
+289965001,429927018,1,31jul2017,Synonym,Croupy cough,,1,
+300959008,696698019,1,31jul2017,Fully specified name,Allergic cough (finding),,1,
+300959008,442163014,1,31jul2017,Synonym,Allergic cough,,1,
+301236000,697007014,1,31jul2017,Fully specified name,Effective cough (finding),,1,
+301236000,442493010,1,31jul2017,Synonym,Effective cough,,1,
+301240009,697012010,1,31jul2017,Fully specified name,Difficulty to clear sputum (finding),,,1
+301240009,442498018,1,31jul2017,Synonym,Difficulty to clear sputum,,,1
+301241008,697013017,1,31jul2017,Fully specified name,Unable to clear sputum (finding),,,1
+301241008,442499014,1,31jul2017,Synonym,Unable to clear sputum,,,1
+301244000,697016013,1,31jul2017,Fully specified name,Ability to cough up sputum (observable entity),,1,1
+301244000,442502013,1,31jul2017,Synonym,Ability to cough up sputum,,1,1
+301245004,697017016,1,31jul2017,Fully specified name,Difficulty in coughing up sputum (finding),,1,
+301245004,442503015,1,31jul2017,Synonym,Difficulty in coughing up sputum,,1,
+301246003,697018014,1,31jul2017,Fully specified name,Does cough up sputum (finding),,1,1
+301246003,442504014,1,31jul2017,Synonym,Does cough up sputum,,1,1
+301247007,697020012,1,31jul2017,Fully specified name,Does not cough up sputum (finding),,1,
+301247007,442505010,1,31jul2017,Synonym,Does not cough up sputum,,1,
+301289004,697068018,1,31jan2020,Fully specified name,Pluggy sputum (finding),,,1
+301289004,442553014,1,31jan2020,Synonym,Pluggy sputum,,,1
+301290008,697069014,1,31jul2017,Fully specified name,Frank blood in sputum (finding),,,1
+301290008,442554015,1,31jul2017,Synonym,Frank blood in sputum,,,1
+301291007,697071014,1,31jul2017,Fully specified name,Watery sputum (finding),,,1
+301291007,442555019,1,31jul2017,Synonym,Watery sputum,,,1
+306779000,703222014,1,31jul2017,Fully specified name,Ability to cough voluntarily (observable entity),,1,
+306779000,449905017,1,31jul2017,Synonym,Ability to cough voluntarily,,1,
+306780002,703223016,1,31jul2017,Fully specified name,Able to cough voluntarily (finding),,1,
+306780002,449906016,1,31jul2017,Synonym,Able to cough voluntarily,,1,
+309651002,706186013,1,31jul2017,Fully specified name,On examination - sputum (finding),,,1
+309651002,2463683019,0,31jan2006,Fully specified name,On examination - sputum (context-dependent category),,,1
+309651002,2670455018,1,31jul2017,Synonym,On examination - sputum,,,1
+309651002,453117016,1,31jan2002,Synonym,O/E - sputum,,,1
+313338004,2611096015,1,31jul2017,Fully specified name,Sputum sample obtained (situation),,,1
+313338004,710109019,0,31jul2006,Fully specified name,Sputum sample obtained (context-dependent category),,,1
+313338004,457227019,1,31jul2017,Synonym,Sputum sample obtained,,,1
+315246003,712114012,1,31jul2017,Fully specified name,Unexplained cough (finding),,1,
+315246003,459738011,1,31jul2017,Synonym,Unexplained cough,,1,
+37705003,769603010,1,31jul2017,Fully specified name,Collection of sputum (procedure),,,1
+37705003,486792015,1,31jul2017,Synonym,Collection of sputum specimen,,,1
+37705003,62897011,1,31jul2017,Synonym,Collection of sputum,,,1
+37705003,62898018,0,31jan2002,Synonym,"Collection of sputum, NOS",,,1
+407588003,2151419014,1,31jul2017,Fully specified name,Unable to complete a sentence in one breath (finding),1,,
+407588003,2159189012,1,31jul2017,Synonym,Unable to complete a sentence in one breath,1,,
+409596002,2465047014,1,31jul2017,Fully specified name,Non-productive cough (finding),,1,
+409596002,2471374014,1,31jul2017,Synonym,Non-productive cough,,1,
+42192008,779064016,1,31jul2017,Fully specified name,Purulent sputum (finding),,,1
+42192008,493228016,1,31jul2017,Synonym,Purulent sputum,,,1
+42192008,70409019,0,31jan2002,Synonym,Expectoration of purulent sputum,,,1
+427931002,2688847013,1,31jul2017,Fully specified name,White sputum (finding),,,1
+427931002,2694247010,1,31jul2017,Synonym,White sputum,,,1
+43025008,779990016,1,31jul2017,Fully specified name,Paroxysmal cough (finding),,1,
+43025008,71787013,1,31jul2017,Synonym,Paroxysmal cough,,1,
+43025008,71788015,1,31jul2017,Synonym,Bout of coughing,,1,
+43025008,71789011,1,31jul2017,Synonym,Fit of coughing,,1,
+43025008,71790019,1,31jul2017,Synonym,Paroxysm of coughing,,1,
+43516009,780538017,1,31jul2017,Fully specified name,Foul smelling sputum (finding),,,1
+43516009,493625011,1,31jul2017,Synonym,Putrid sputum,,,1
+43516009,493626012,1,31jul2017,Synonym,Fetid sputum,,,1
+43516009,493627015,1,31jul2017,Synonym,Sputum: fetid/offensive,,,1
+43516009,493628013,1,31jul2017,Synonym,Foul smelling sputum,,,1
+43516009,72573012,1,31jul2017,Synonym,Expectoration of foul smelling sputum,,,1
+43516009,72572019,0,31jan2002,Synonym,Expectoration of foul sputum,,,1
+442773002,2818085015,1,31jul2017,Fully specified name,Microbiologic culture of sputum positive (finding),,,1
+442773002,2818086019,1,31jul2017,Synonym,Microbiologic culture of sputum positive,,,1
+445241004,2869911012,1,31jul2017,Fully specified name,Persistent cough after viral respiratory infection (disorder),,1,
+445241004,2872867015,1,31jul2017,Synonym,Persistent cough after viral respiratory infection,,1,
+445241004,2872868013,1,31jul2017,Synonym,Postviral cough,,1,
+45710003,782979016,1,31jul2017,Fully specified name,Sputum (substance),,,1
+45710003,76239015,1,31jul2017,Synonym,Sputum,,,1
+45710003,76241019,1,31jul2017,Synonym,Expectoration,,,1
+45710003,76240018,0,31jan2002,Synonym,"Expectoration, NOS",,,1
+46802002,784192018,1,31jul2017,Fully specified name,Smokers' cough (disorder),,1,
+46802002,494650019,1,31jul2017,Synonym,Cigarette cough,,1,
+46802002,78013015,1,31jul2017,Synonym,Smokers' cough,,1,
+49727002,787437011,1,31jul2017,Fully specified name,Cough (finding),,1,
+49727002,1230769019,1,31jul2017,Synonym,Observation of cough,,1,
+49727002,82824016,1,31jul2017,Synonym,Cough,,1,
+49727002,1494763010,0,31jul2015,Synonym,Finding of cough,,1,
+49727002,1230770018,0,31jan2003,Synonym,Finding of cough (finding),,1,
+49727002,82825015,0,31jan2002,Synonym,"Cough, NOS",,1,
+60845006,799842016,1,31jul2017,Fully specified name,Dyspnea on exertion (finding),1,,
+60845006,101102017,1,31jul2017,Synonym,Exertional dyspnea,1,,
+60845006,101103010,1,31jul2017,Synonym,Breathlessness on exertion,1,,
+60845006,101104016,1,31jul2017,Synonym,Dyspnea on effort,1,,
+60845006,101105015,1,31jul2017,Synonym,Dyspnoea on effort,1,,
+60845006,1232138017,1,31jul2017,Synonym,Short of breath on exertion,1,,
+60845006,199001013,1,31jul2017,Synonym,Exertional dyspnoea,1,,
+60845006,498862013,1,31jul2017,Synonym,Dyspnoea on exertion,1,,
+60845006,498863015,1,31jul2017,Synonym,Dyspnea on exertion,1,,
+60845006,1232139013,1,31jul2003,Synonym,SOBOE - Shortness of breath on exertion,1,,
+61281005,800326012,1,31jul2017,Fully specified name,Bloodstained sputum (finding),,,1
+61281005,101823013,1,31jul2017,Synonym,Expectoration of blood tinged sputum,,,1
+61281005,498967015,1,31jul2017,Synonym,Bloodstained sputum,,,1
+61281005,101822015,0,31jan2002,Synonym,Expectoration of blood stained sputum,,,1
+62427007,2545684012,1,31jul2017,Fully specified name,Bovine cough (finding),,1,
+62427007,801598014,0,31jul2005,Fully specified name,Bovine cough (disorder),,1,
+62427007,103764016,1,31jul2017,Synonym,Bovine cough,,1,
+62548007,801732010,1,31jul2017,Fully specified name,Nocturnal cough (finding),,1,
+62548007,103957012,1,31jul2017,Synonym,Nocturnal cough,,1,
+62731002,801936015,1,31jul2017,Fully specified name,Increasing frequency of cough (finding),,1,
+62731002,499367019,1,31jul2017,Synonym,Increasing frequency of cough,,1,
+62731002,104262014,0,31jan2002,Synonym,Increased coughing,,1,
+63000007,802233015,1,31jul2017,Fully specified name,Spasmodic cough (finding),,1,
+63000007,104724012,1,31jul2017,Synonym,Spasmodic cough,,1,
+63129006,802378019,1,31jul2017,Fully specified name,Mucus discharge (morphologic abnormality),,,1
+63129006,104941015,1,31jul2017,Synonym,Mucus discharge,,,1
+63129006,104942010,1,31jul2017,Synonym,Mucoid discharge,,,1
+63129006,104943017,0,31jan2019,Synonym,Catarrhal discharge,,,1
+63129006,104944011,0,31jan2019,Synonym,Catarrh,,,1
+64503007,803904016,1,31jul2017,Fully specified name,Mucoid sputum (finding),,,1
+64503007,499874017,1,31jul2017,Synonym,Mucoid sputum,,,1
+64503007,107210016,0,31jan2002,Synonym,Expectoration of mucoid sputum,,,1
+66857006,806516013,1,31jul2017,Fully specified name,Hemoptysis (finding),,1,1
+66857006,2638918015,0,31jul2017,Fully specified name,Hemoptysis (disorder),,1,1
+66857006,111056015,1,31jul2017,Synonym,Hemoptysis,,1,1
+66857006,111057012,1,31jul2017,Synonym,Coughing up blood,,1,1
+66857006,500542015,1,31jul2017,Synonym,Haemoptysis,,1,1
+6686005,806520012,1,31jul2017,Fully specified name,Blood streaked sputum (finding),,,1
+6686005,500544019,1,31jul2017,Synonym,Blood streaked sputum,,,1
+6686005,12073016,0,31jan2002,Synonym,Expectoration of blood streaked sputum,,,1
+68154008,807958012,1,31jul2017,Fully specified name,Chronic cough (finding),,1,
+68154008,113213012,1,31jul2017,Synonym,Chronic cough,,1,
+68423001,808257010,1,31jul2017,Fully specified name,Frothy sputum (finding),,,1
+68423001,113635011,1,31jul2017,Synonym,Expectoration of serous sputum,,,1
+68423001,501008013,1,31jul2017,Synonym,Frothy sputum,,,1
+68423001,501009017,1,31jul2017,Synonym,Frothy phlegm,,,1
+68423001,113634010,0,31jan2002,Synonym,Expectoration of frothy sputum,,,1
+713661000,3294487010,1,31jul2017,Fully specified name,Able to complete sentence in one breath (finding),1,,
+713661000,3292644018,1,31jul2017,Synonym,Able to complete sentence in one breath,1,,
+74417001,814914010,1,31jul2017,Fully specified name,Mucopurulent chronic bronchitis (disorder),,,1
+74417001,123588010,1,31jul2017,Synonym,Mucopurulent chronic bronchitis,,,1
+74417001,123589019,0,31jan2002,Synonym,Chronic catarrhal bronchitis,,,1
+79451004,820503010,1,31jul2017,Fully specified name,Bronchial breathing (finding),1,,
+79451004,131814014,1,31jul2017,Synonym,Bronchial breathing,1,,
+79451004,131815010,1,31jul2017,Synonym,Tubular breathing,1,,
+79451004,131816011,1,31jul2017,Synonym,Bronchial breath sounds,1,,
+79451004,131817019,1,31jul2017,Synonym,Tubular breath sounds,1,,
+79451004,1234361010,1,31jul2003,Synonym,BB - Bronchial breathing,1,,
+810511000000109,2114801000000114,1,01apr2012,Fully specified name,Episodic dry cough (finding),,1,
+810511000000109,2114811000000111,1,01apr2012,Synonym,Episodic dry cough,,1,
+810511000000109,2168391000000116,0,01apr2012,Synonym,[D]Episodic dry cough,,1,
+860741000000100,2226151000000117,1,01apr2013,Fully specified name,Dark green sputum (finding),,,1
+860741000000100,2226161000000119,1,01apr2013,Synonym,Dark green sputum,,,1
+860761000000104,2226191000000113,1,01apr2013,Fully specified name,Pale green sputum (finding),,,1
+860761000000104,2226201000000110,1,01apr2013,Synonym,Pale green sputum,,,1
+889491000000109,2290981000000117,1,01oct2013,Fully specified name,Acid-fast bacillus sputum smear positive (finding),,,1
+889491000000109,2290991000000115,1,01oct2013,Synonym,Acid-fast bacillus sputum smear positive,,,1
+889721000000102,2291611000000111,1,01oct2013,Fully specified name,Acid-fast bacillus sputum smear negative (finding),,,1
+889721000000102,2291621000000117,1,01oct2013,Synonym,Acid-fast bacillus sputum smear negative,,,1
+8955008,832468019,1,31jul2017,Fully specified name,Mucopurulent sputum (finding),,,1
+8955008,508569015,1,31jul2017,Synonym,Mucopurulent sputum,,,1
+8955008,15784012,0,31jan2002,Synonym,Expectoration of mucopurulent sputum,,,1
+992441000000101,2523831000000116,1,01apr2016,Fully specified name,Sputum microscopy (observable entity),,,1
+992441000000101,2554641000000111,1,01apr2016,Synonym,Sputum microscopy,,,1

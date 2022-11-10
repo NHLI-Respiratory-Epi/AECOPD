@@ -5,7 +5,7 @@ use Observation, clear
 
 //Step 2. Merge events file with SNOMED CT codelists to get clinical events of interest
 merge 1:1 snomedctdescriptionid using annual_review.csv, nogenerate keep(match master)
-merge 1:1 snomedctdescriptionid using COPD_symptoms.csv, nogenerate keep(match master)
+merge 1:1 snomedctdescriptionid using AECOPD_symptoms.csv, nogenerate keep(match master)
 merge 1:1 snomedctdescriptionid using LRTI.csv, nogenerate keep(match master)
 merge 1:1 snomedctdescriptionid using AECOPD.csv, nogenerate keep(match master)
 

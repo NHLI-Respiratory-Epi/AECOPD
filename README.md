@@ -7,14 +7,14 @@ The **Algorithms with PPV > 75%** shown below represent the best AECOPD detectio
 
 In summary, an AECOPD can be in found in primary care EHRs by **excluding any events on a [COPD annual review](codelists/annual_review.csv) day** and searching for any of the following events:
  - A prescription of [antibiotics *and* oral corticosteroids](codelists/antibiotics_ocs.csv) for 5–14 days
- - [Respiratory symptoms](codelists/COPD_symptoms.csv) (2+) with a prescription for an [antibiotic *or* oral corticosteroid](codelists/antibiotics_ocs.csv)
+ - [Respiratory symptoms](codelists/AECOPD_symptoms.csv) (2+) with a prescription for an [antibiotic *or* oral corticosteroid](codelists/antibiotics_ocs.csv)
  - A [lower respiratory tract infection (LRTI) code](codelists/LRTI.csv)
  - An [AECOPD code](codelists/AECOPD.csv)
  
  Any of these events closer together than 14 days are considered part of the same exacerbation event.
 
 ## Example *Stata* code
-The [do file](AECOPD_method.do) containing this code as well as the [annual_review](codelists/annual_review.csv), [COPD_symptoms](codelists/COPD_symptoms.csv), [LRTI](codelists/LRTI.csv), [AECOPD](codelists/AECOPD.csv), and [antibiotics_ocs](codelists/antibiotics_ocs.csv) codelists can be found in the parent directory of this repository.
+The [do file](AECOPD_method.do) containing this code as well as the [annual_review](codelists/annual_review.csv), [AECOPD_symptoms](codelists/AECOPD_symptoms.csv), [LRTI](codelists/LRTI.csv), [AECOPD](codelists/AECOPD.csv), and [antibiotics_ocs](codelists/antibiotics_ocs.csv) codelists can be found in the parent directory of this repository.
 
 **1. Set working directory. In this example I have assumed that all data files and codelists are in the same working directory.**
 ```stata
@@ -29,7 +29,7 @@ use Observation, clear
 **3. Merge events file with SNOMED CT codelists to get clinical events of interest.**
 ```stata
 merge 1:1 snomedctdescriptionid using annual_review.csv, nogenerate keep(match master)
-merge 1:1 snomedctdescriptionid using COPD_symptoms.csv, nogenerate keep(match master)
+merge 1:1 snomedctdescriptionid using AECOPD_symptoms.csv, nogenerate keep(match master)
 merge 1:1 snomedctdescriptionid using LRTI.csv, nogenerate keep(match master)
 merge 1:1 snomedctdescriptionid using AECOPD.csv, nogenerate keep(match master)
 ```
